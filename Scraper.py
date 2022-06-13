@@ -6,9 +6,16 @@ file = r'2021-2022 Sem 2/2021-2022 Round 3/DemandAllocationRptUG_R3.pdf'
 #file = r'2021-2022 Sem 2/2021-2022 Round 2/DemandAllocationRptUG_R2.pdf'
 #file = r'2021-2022 Sem 2/2021-2022 Round 1/DemandAllocationRptUG_R1.pdf'
 #file = r'2021-2022 Sem 2/2021-2022 Round 0/DemandAllocationRptUG_R0.pdf'
-first_page = tb.read_pdf(file, pages = '1')
-data = tb.read_pdf(file, pages = '2-106')
+first_page = tb.read_pdf(file, pages = '1', encoding='cp1252')
 
+#For R0
+#data = tb.read_pdf(file, pages = '2-85', encoding='cp1252')
+#For R1
+#data = tb.read_pdf(file, pages = '2-101', encoding='cp1252')
+#For R2
+#data = tb.read_pdf(file, pages = '2-105', encoding='cp1252')
+#For R3
+data = tb.read_pdf(file, pages = '2-106', encoding='cp1252')
 
 defaultFileName = "page"
 filenumber = 0
@@ -42,5 +49,7 @@ for item in data:
   newdata = pd.concat([newdata, tempdata], axis=0)
   filenumber += 1
 
-newdata.to_json(defaultFileName + str(filenumber) + '.json', orient='records')
+newdata.set_index(keys='Module\rCode', inplace=True)
+newdata.reset_index(inplace=True)
+newdata.to_json(defaultFileName + str(filenumber) + '.json', orient='table')
 
