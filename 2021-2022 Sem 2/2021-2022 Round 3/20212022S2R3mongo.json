@@ -1,29 +1,4 @@
-{
-  "schema": {
-    "fields": [
-      {
-        "name": "index",
-        "type": "integer"
-      },
-      {
-        "name": "Module\rCode",
-        "type": "string"
-      },
-      {
-        "name": "Vacancy",
-        "type": "integer"
-      },
-      {
-        "name": "Demand",
-        "type": "integer"
-      }
-    ],
-    "primaryKey": [
-      "index"
-    ],
-    "pandas_version": "0.20.0"
-  },
-  "data": [
+[
     {
       "index": 0,
       "Module\rCode": "Module",
@@ -11202,5 +11177,4 @@
       "Vacancy": 0,
       "Demand": 4
     }
-  ]
-}
+]
