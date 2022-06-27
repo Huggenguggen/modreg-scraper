@@ -2,10 +2,10 @@ import tabula as tb
 import pandas as pd
 import numpy as np
 
-file = r'2021-2022 Sem 2/2021-2022 Round 3/DemandAllocationRptUG_R3.pdf'
+#file = r'2021-2022 Sem 2/2021-2022 Round 3/DemandAllocationRptUG_R3.pdf'
 #file = r'2021-2022 Sem 2/2021-2022 Round 2/DemandAllocationRptUG_R2.pdf'
 #file = r'2021-2022 Sem 2/2021-2022 Round 1/DemandAllocationRptUG_R1.pdf'
-#file = r'2021-2022 Sem 2/2021-2022 Round 0/DemandAllocationRptUG_R0.pdf'
+file = r'2022-2023 Sem 1/2022-2023 Round 0/DemandAllocationRptUG_R0.pdf'
 first_page = tb.read_pdf(file, pages = '1', encoding='cp1252')
 
 #For R0
@@ -15,7 +15,7 @@ first_page = tb.read_pdf(file, pages = '1', encoding='cp1252')
 #For R2
 #data = tb.read_pdf(file, pages = '2-105', encoding='cp1252')
 #For R3
-data = tb.read_pdf(file, pages = '2-106', encoding='cp1252')
+data = tb.read_pdf(file, pages = '2-75', encoding='cp1252')
 
 defaultFileName = "page"
 filenumber = 0

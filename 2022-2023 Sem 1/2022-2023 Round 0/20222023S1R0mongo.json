@@ -1,0 +1,8012 @@
+[
+  {
+    "index": 2,
+    "Module\rCode": "HSI2005",
+    "Vacancy": 100,
+    "Demand": 245
+  },
+  {
+    "index": 3,
+    "Module\rCode": "HS2904",
+    "Vacancy": 100,
+    "Demand": 9
+  },
+  {
+    "index": 4,
+    "Module\rCode": "HSI2007",
+    "Vacancy": 200,
+    "Demand": 305
+  },
+  {
+    "index": 5,
+    "Module\rCode": "HS1501",
+    "Vacancy": 450,
+    "Demand": 1135
+  },
+  {
+    "index": 6,
+    "Module\rCode": "BN4101",
+    "Vacancy": 58,
+    "Demand": 58
+  },
+  {
+    "index": 7,
+    "Module\rCode": "EG2401A",
+    "Vacancy": 400,
+    "Demand": 155
+  },
+  {
+    "index": 8,
+    "Module\rCode": "EG2401A",
+    "Vacancy": 244,
+    "Demand": 213
+  },
+  {
+    "index": 9,
+    "Module\rCode": "EG2501",
+    "Vacancy": 59,
+    "Demand": 2
+  },
+  {
+    "index": 10,
+    "Module\rCode": "EG2604",
+    "Vacancy": 24,
+    "Demand": 40
+  },
+  {
+    "index": 11,
+    "Module\rCode": "CN2103",
+    "Vacancy": 234,
+    "Demand": 163
+  },
+  {
+    "index": 12,
+    "Module\rCode": "CN2104",
+    "Vacancy": 231,
+    "Demand": 155
+  },
+  {
+    "index": 13,
+    "Module\rCode": "CN2116",
+    "Vacancy": 50,
+    "Demand": 6
+  },
+  {
+    "index": 14,
+    "Module\rCode": "CN2122A",
+    "Vacancy": 35,
+    "Demand": 1
+  },
+  {
+    "index": 15,
+    "Module\rCode": "CN2125",
+    "Vacancy": 35,
+    "Demand": 5
+  },
+  {
+    "index": 16,
+    "Module\rCode": "CN3101",
+    "Vacancy": 14,
+    "Demand": 1
+  },
+  {
+    "index": 17,
+    "Module\rCode": "CN3101A",
+    "Vacancy": 45,
+    "Demand": 32
+  },
+  {
+    "index": 18,
+    "Module\rCode": "CN3101A",
+    "Vacancy": 45,
+    "Demand": 11
+  },
+  {
+    "index": 19,
+    "Module\rCode": "CN3101A",
+    "Vacancy": 45,
+    "Demand": 51
+  },
+  {
+    "index": 20,
+    "Module\rCode": "CN3101A",
+    "Vacancy": 45,
+    "Demand": 33
+  },
+  {
+    "index": 21,
+    "Module\rCode": "CN3102",
+    "Vacancy": 15,
+    "Demand": 2
+  },
+  {
+    "index": 22,
+    "Module\rCode": "CN3121",
+    "Vacancy": 250,
+    "Demand": 125
+  },
+  {
+    "index": 23,
+    "Module\rCode": "CN3124A",
+    "Vacancy": 35,
+    "Demand": 4
+  },
+  {
+    "index": 24,
+    "Module\rCode": "CN3132",
+    "Vacancy": 250,
+    "Demand": 131
+  },
+  {
+    "index": 25,
+    "Module\rCode": "CN3135",
+    "Vacancy": 250,
+    "Demand": 77
+  },
+  {
+    "index": 26,
+    "Module\rCode": "CN3421A",
+    "Vacancy": 250,
+    "Demand": 111
+  },
+  {
+    "index": 27,
+    "Module\rCode": "CN4122",
+    "Vacancy": 280,
+    "Demand": 152
+  },
+  {
+    "index": 28,
+    "Module\rCode": "CN4203R",
+    "Vacancy": 49,
+    "Demand": 15
+  },
+  {
+    "index": 29,
+    "Module\rCode": "CN4205R",
+    "Vacancy": 105,
+    "Demand": 30
+  },
+  {
+    "index": 30,
+    "Module\rCode": "CN4215R",
+    "Vacancy": 85,
+    "Demand": 18
+  },
+  {
+    "index": 31,
+    "Module\rCode": "CN4218",
+    "Vacancy": 55,
+    "Demand": 29
+  },
+  {
+    "index": 32,
+    "Module\rCode": "CN4233R",
+    "Vacancy": 40,
+    "Demand": 69
+  },
+  {
+    "index": 33,
+    "Module\rCode": "CN4238R",
+    "Vacancy": 55,
+    "Demand": 5
+  },
+  {
+    "index": 34,
+    "Module\rCode": "CN4240R",
+    "Vacancy": 55,
+    "Demand": 5
+  },
+  {
+    "index": 35,
+    "Module\rCode": "CN4250",
+    "Vacancy": 0,
+    "Demand": 1
+  },
+  {
+    "index": 36,
+    "Module\rCode": "CN5173",
+    "Vacancy": 30,
+    "Demand": 6
+  },
+  {
+    "index": 37,
+    "Module\rCode": "CN5190",
+    "Vacancy": 30,
+    "Demand": 36
+  },
+  {
+    "index": 38,
+    "Module\rCode": "CN5191",
+    "Vacancy": 30,
+    "Demand": 17
+  },
+  {
+    "index": 39,
+    "Module\rCode": "CN5216",
+    "Vacancy": 30,
+    "Demand": 12
+  },
+  {
+    "index": 40,
+    "Module\rCode": "CN5246",
+    "Vacancy": 20,
+    "Demand": 2
+  },
+  {
+    "index": 41,
+    "Module\rCode": "CN5251",
+    "Vacancy": 100,
+    "Demand": 9
+  },
+  {
+    "index": 42,
+    "Module\rCode": "CE2407A",
+    "Vacancy": 27,
+    "Demand": 6
+  },
+  {
+    "index": 43,
+    "Module\rCode": "CE4104",
+    "Vacancy": 150,
+    "Demand": 31
+  },
+  {
+    "index": 44,
+    "Module\rCode": "ESE4502R",
+    "Vacancy": 80,
+    "Demand": 4
+  },
+  {
+    "index": 45,
+    "Module\rCode": "EE2211",
+    "Vacancy": 68,
+    "Demand": 59
+  },
+  {
+    "index": 46,
+    "Module\rCode": "EE3031",
+    "Vacancy": 0,
+    "Demand": 58
+  },
+  {
+    "index": 47,
+    "Module\rCode": "EE3031",
+    "Vacancy": 0,
+    "Demand": 55
+  },
+  {
+    "index": 48,
+    "Module\rCode": "EE3104C",
+    "Vacancy": 38,
+    "Demand": 15
+  },
+  {
+    "index": 49,
+    "Module\rCode": "EE3305",
+    "Vacancy": 30,
+    "Demand": 10
+  },
+  {
+    "index": 50,
+    "Module\rCode": "EE3306",
+    "Vacancy": 20,
+    "Demand": 1
+  },
+  {
+    "index": 51,
+    "Module\rCode": "EE3331C",
+    "Vacancy": 40,
+    "Demand": 25
+  },
+  {
+    "index": 52,
+    "Module\rCode": "EE3408C",
+    "Vacancy": 40,
+    "Demand": 18
+  },
+  {
+    "index": 53,
+    "Module\rCode": "EE3431C",
+    "Vacancy": 70,
+    "Demand": 21
+  },
+  {
+    "index": 54,
+    "Module\rCode": "EE3731C",
+    "Vacancy": 65,
+    "Demand": 56
+  },
+  {
+    "index": 55,
+    "Module\rCode": "EE3801",
+    "Vacancy": 40,
+    "Demand": 29
+  },
+  {
+    "index": 56,
+    "Module\rCode": "EE4031",
+    "Vacancy": 40,
+    "Demand": 12
+  },
+  {
+    "index": 57,
+    "Module\rCode": "EE4032",
+    "Vacancy": 40,
+    "Demand": 36
+  },
+  {
+    "index": 58,
+    "Module\rCode": "EE4101",
+    "Vacancy": 23,
+    "Demand": 4
+  },
+  {
+    "index": 59,
+    "Module\rCode": "EE4112",
+    "Vacancy": 16,
+    "Demand": 4
+  },
+  {
+    "index": 60,
+    "Module\rCode": "EE4204",
+    "Vacancy": 136,
+    "Demand": 111
+  },
+  {
+    "index": 61,
+    "Module\rCode": "EE4211",
+    "Vacancy": 100,
+    "Demand": 93
+  },
+  {
+    "index": 62,
+    "Module\rCode": "EE4302",
+    "Vacancy": 40,
+    "Demand": 4
+  },
+  {
+    "index": 63,
+    "Module\rCode": "EE4303",
+    "Vacancy": 50,
+    "Demand": 8
+  },
+  {
+    "index": 64,
+    "Module\rCode": "EE4309",
+    "Vacancy": 40,
+    "Demand": 4
+  },
+  {
+    "index": 65,
+    "Module\rCode": "EE4435",
+    "Vacancy": 30,
+    "Demand": 2
+  },
+  {
+    "index": 66,
+    "Module\rCode": "EE4436",
+    "Vacancy": 40,
+    "Demand": 14
+  },
+  {
+    "index": 67,
+    "Module\rCode": "EE4501",
+    "Vacancy": 40,
+    "Demand": 23
+  },
+  {
+    "index": 68,
+    "Module\rCode": "EE4502",
+    "Vacancy": 40,
+    "Demand": 26
+  },
+  {
+    "index": 69,
+    "Module\rCode": "EE4704",
+    "Vacancy": 40,
+    "Demand": 58
+  },
+  {
+    "index": 70,
+    "Module\rCode": "EE4705",
+    "Vacancy": 40,
+    "Demand": 31
+  },
+  {
+    "index": 71,
+    "Module\rCode": "ESP2107",
+    "Vacancy": 42,
+    "Demand": 21
+  },
+  {
+    "index": 72,
+    "Module\rCode": "ESP3201",
+    "Vacancy": 15,
+    "Demand": 6
+  },
+  {
+    "index": 73,
+    "Module\rCode": "ESP3902",
+    "Vacancy": 15,
+    "Demand": 5
+  },
+  {
+    "index": 74,
+    "Module\rCode": "ESP3902",
+    "Vacancy": 15,
+    "Demand": 10
+  },
+  {
+    "index": 75,
+    "Module\rCode": "IE2110",
+    "Vacancy": 90,
+    "Demand": 89
+  },
+  {
+    "index": 76,
+    "Module\rCode": "IE2141",
+    "Vacancy": 54,
+    "Demand": 15
+  },
+  {
+    "index": 77,
+    "Module\rCode": "IE2141",
+    "Vacancy": 41,
+    "Demand": 20
+  },
+  {
+    "index": 78,
+    "Module\rCode": "IE3101",
+    "Vacancy": 40,
+    "Demand": 26
+  },
+  {
+    "index": 79,
+    "Module\rCode": "IE3105",
+    "Vacancy": 49,
+    "Demand": 20
+  },
+  {
+    "index": 80,
+    "Module\rCode": "IE3110R",
+    "Vacancy": 60,
+    "Demand": 37
+  },
+  {
+    "index": 81,
+    "Module\rCode": "IE4215",
+    "Vacancy": 40,
+    "Demand": 17
+  },
+  {
+    "index": 82,
+    "Module\rCode": "IE4240",
+    "Vacancy": 64,
+    "Demand": 40
+  },
+  {
+    "index": 83,
+    "Module\rCode": "IE4243",
+    "Vacancy": 1,
+    "Demand": 1
+  },
+  {
+    "index": 84,
+    "Module\rCode": "IE4248",
+    "Vacancy": 40,
+    "Demand": 15
+  },
+  {
+    "index": 85,
+    "Module\rCode": "IE5231",
+    "Vacancy": 9,
+    "Demand": 6
+  },
+  {
+    "index": 86,
+    "Module\rCode": "IE5301",
+    "Vacancy": 8,
+    "Demand": 24
+  },
+  {
+    "index": 87,
+    "Module\rCode": "MLE2301",
+    "Vacancy": 25,
+    "Demand": 1
+  },
+  {
+    "index": 88,
+    "Module\rCode": "ME1102",
+    "Vacancy": 20,
+    "Demand": 1
+  },
+  {
+    "index": 89,
+    "Module\rCode": "ME2102",
+    "Vacancy": 95,
+    "Demand": 132
+  },
+  {
+    "index": 90,
+    "Module\rCode": "ME2112",
+    "Vacancy": 160,
+    "Demand": 147
+  },
+  {
+    "index": 91,
+    "Module\rCode": "ME2115",
+    "Vacancy": 160,
+    "Demand": 37
+  },
+  {
+    "index": 92,
+    "Module\rCode": "ME2121",
+    "Vacancy": 160,
+    "Demand": 84
+  },
+  {
+    "index": 93,
+    "Module\rCode": "ME2134",
+    "Vacancy": 160,
+    "Demand": 120
+  },
+  {
+    "index": 94,
+    "Module\rCode": "ME2142",
+    "Vacancy": 160,
+    "Demand": 131
+  },
+  {
+    "index": 95,
+    "Module\rCode": "ME2162",
+    "Vacancy": 160,
+    "Demand": 61
+  },
+  {
+    "index": 96,
+    "Module\rCode": "ME3122",
+    "Vacancy": 55,
+    "Demand": 10
+  },
+  {
+    "index": 97,
+    "Module\rCode": "ME3163",
+    "Vacancy": 22,
+    "Demand": 51
+  },
+  {
+    "index": 98,
+    "Module\rCode": "ME3211",
+    "Vacancy": 55,
+    "Demand": 7
+  },
+  {
+    "index": 99,
+    "Module\rCode": "ME3242",
+    "Vacancy": 40,
+    "Demand": 17
+  },
+  {
+    "index": 100,
+    "Module\rCode": "ME3243",
+    "Vacancy": 25,
+    "Demand": 58
+  },
+  {
+    "index": 101,
+    "Module\rCode": "ME3252",
+    "Vacancy": 30,
+    "Demand": 17
+  },
+  {
+    "index": 102,
+    "Module\rCode": "ME3261",
+    "Vacancy": 70,
+    "Demand": 23
+  },
+  {
+    "index": 103,
+    "Module\rCode": "ME3263",
+    "Vacancy": 66,
+    "Demand": 19
+  },
+  {
+    "index": 104,
+    "Module\rCode": "ME4101A",
+    "Vacancy": 450,
+    "Demand": 150
+  },
+  {
+    "index": 105,
+    "Module\rCode": "ME4101B",
+    "Vacancy": 150,
+    "Demand": 36
+  },
+  {
+    "index": 106,
+    "Module\rCode": "ME4102",
+    "Vacancy": 42,
+    "Demand": 42
+  },
+  {
+    "index": 107,
+    "Module\rCode": "ME4102",
+    "Vacancy": 40,
+    "Demand": 40
+  },
+  {
+    "index": 108,
+    "Module\rCode": "ME4102",
+    "Vacancy": 32,
+    "Demand": 32
+  },
+  {
+    "index": 109,
+    "Module\rCode": "ME4102",
+    "Vacancy": 39,
+    "Demand": 39
+  },
+  {
+    "index": 110,
+    "Module\rCode": "ME4103",
+    "Vacancy": 180,
+    "Demand": 98
+  },
+  {
+    "index": 111,
+    "Module\rCode": "ME4105",
+    "Vacancy": 25,
+    "Demand": 5
+  },
+  {
+    "index": 112,
+    "Module\rCode": "ME4223",
+    "Vacancy": 45,
+    "Demand": 29
+  },
+  {
+    "index": 113,
+    "Module\rCode": "ME4226",
+    "Vacancy": 40,
+    "Demand": 7
+  },
+  {
+    "index": 114,
+    "Module\rCode": "ME4233",
+    "Vacancy": 28,
+    "Demand": 12
+  },
+  {
+    "index": 115,
+    "Module\rCode": "ME4241",
+    "Vacancy": 27,
+    "Demand": 54
+  },
+  {
+    "index": 116,
+    "Module\rCode": "ME4242",
+    "Vacancy": 40,
+    "Demand": 36
+  },
+  {
+    "index": 117,
+    "Module\rCode": "ME4245",
+    "Vacancy": 65,
+    "Demand": 37
+  },
+  {
+    "index": 118,
+    "Module\rCode": "ME4248",
+    "Vacancy": 32,
+    "Demand": 2
+  },
+  {
+    "index": 119,
+    "Module\rCode": "ME4252",
+    "Vacancy": 70,
+    "Demand": 18
+  },
+  {
+    "index": 120,
+    "Module\rCode": "ME4291",
+    "Vacancy": 52,
+    "Demand": 58
+  },
+  {
+    "index": 121,
+    "Module\rCode": "CH2141",
+    "Vacancy": 75,
+    "Demand": 11
+  },
+  {
+    "index": 122,
+    "Module\rCode": "CH2161",
+    "Vacancy": 30,
+    "Demand": 17
+  },
+  {
+    "index": 123,
+    "Module\rCode": "CH2162",
+    "Vacancy": 30,
+    "Demand": 8
+  },
+  {
+    "index": 124,
+    "Module\rCode": "CH2252",
+    "Vacancy": 30,
+    "Demand": 6
+  },
+  {
+    "index": 125,
+    "Module\rCode": "CH2293",
+    "Vacancy": 40,
+    "Demand": 6
+  },
+  {
+    "index": 126,
+    "Module\rCode": "CH2295",
+    "Vacancy": 25,
+    "Demand": 1
+  },
+  {
+    "index": 127,
+    "Module\rCode": "CH2391",
+    "Vacancy": 25,
+    "Demand": 3
+  },
+  {
+    "index": 128,
+    "Module\rCode": "CH2392",
+    "Vacancy": 65,
+    "Demand": 13
+  },
+  {
+    "index": 129,
+    "Module\rCode": "CH3228",
+    "Vacancy": 30,
+    "Demand": 9
+  },
+  {
+    "index": 130,
+    "Module\rCode": "CH3248",
+    "Vacancy": 30,
+    "Demand": 23
+  },
+  {
+    "index": 131,
+    "Module\rCode": "CH4224",
+    "Vacancy": 20,
+    "Demand": 7
+  },
+  {
+    "index": 132,
+    "Module\rCode": "CH4226",
+    "Vacancy": 20,
+    "Demand": 5
+  },
+  {
+    "index": 133,
+    "Module\rCode": "CH4247",
+    "Vacancy": 20,
+    "Demand": 6
+  },
+  {
+    "index": 134,
+    "Module\rCode": "CL2103",
+    "Vacancy": 40,
+    "Demand": 6
+  },
+  {
+    "index": 135,
+    "Module\rCode": "CL3201",
+    "Vacancy": 30,
+    "Demand": 16
+  },
+  {
+    "index": 136,
+    "Module\rCode": "INT2101",
+    "Vacancy": 73,
+    "Demand": 2
+  },
+  {
+    "index": 137,
+    "Module\rCode": "TRA2101",
+    "Vacancy": 123,
+    "Demand": 5
+  },
+  {
+    "index": 138,
+    "Module\rCode": "TRA3204",
+    "Vacancy": 25,
+    "Demand": 2
+  },
+  {
+    "index": 139,
+    "Module\rCode": "TRA3206",
+    "Vacancy": 30,
+    "Demand": 3
+  },
+  {
+    "index": 140,
+    "Module\rCode": "NM2101",
+    "Vacancy": 168,
+    "Demand": 65
+  },
+  {
+    "index": 141,
+    "Module\rCode": "NM2103",
+    "Vacancy": 117,
+    "Demand": 76
+  },
+  {
+    "index": 142,
+    "Module\rCode": "NM2104",
+    "Vacancy": 121,
+    "Demand": 72
+  },
+  {
+    "index": 143,
+    "Module\rCode": "NM2209",
+    "Vacancy": 116,
+    "Demand": 38
+  },
+  {
+    "index": 144,
+    "Module\rCode": "NM2219",
+    "Vacancy": 77,
+    "Demand": 38
+  },
+  {
+    "index": 145,
+    "Module\rCode": "NM2220",
+    "Vacancy": 78,
+    "Demand": 35
+  },
+  {
+    "index": 146,
+    "Module\rCode": "NM2223",
+    "Vacancy": 97,
+    "Demand": 19
+  },
+  {
+    "index": 147,
+    "Module\rCode": "NM3205",
+    "Vacancy": 72,
+    "Demand": 44
+  },
+  {
+    "index": 148,
+    "Module\rCode": "NM3217",
+    "Vacancy": 78,
+    "Demand": 87
+  },
+  {
+    "index": 149,
+    "Module\rCode": "NM3230",
+    "Vacancy": 30,
+    "Demand": 35
+  },
+  {
+    "index": 150,
+    "Module\rCode": "NM3230",
+    "Vacancy": 30,
+    "Demand": 31
+  },
+  {
+    "index": 151,
+    "Module\rCode": "NM3241",
+    "Vacancy": 18,
+    "Demand": 29
+  },
+  {
+    "index": 152,
+    "Module\rCode": "NM3243",
+    "Vacancy": 85,
+    "Demand": 55
+  },
+  {
+    "index": 153,
+    "Module\rCode": "NM4102",
+    "Vacancy": 40,
+    "Demand": 19
+  },
+  {
+    "index": 154,
+    "Module\rCode": "NM4207",
+    "Vacancy": 38,
+    "Demand": 84
+  },
+  {
+    "index": 155,
+    "Module\rCode": "NM4208",
+    "Vacancy": 21,
+    "Demand": 32
+  },
+  {
+    "index": 156,
+    "Module\rCode": "NM4208",
+    "Vacancy": 21,
+    "Demand": 38
+  },
+  {
+    "index": 157,
+    "Module\rCode": "NM4212",
+    "Vacancy": 36,
+    "Demand": 52
+  },
+  {
+    "index": 158,
+    "Module\rCode": "NM4228",
+    "Vacancy": 36,
+    "Demand": 42
+  },
+  {
+    "index": 159,
+    "Module\rCode": "NM4228",
+    "Vacancy": 36,
+    "Demand": 42
+  },
+  {
+    "index": 160,
+    "Module\rCode": "NM4242",
+    "Vacancy": 36,
+    "Demand": 34
+  },
+  {
+    "index": 161,
+    "Module\rCode": "NM4244",
+    "Vacancy": 36,
+    "Demand": 73
+  },
+  {
+    "index": 162,
+    "Module\rCode": "NM4245",
+    "Vacancy": 36,
+    "Demand": 17
+  },
+  {
+    "index": 163,
+    "Module\rCode": "NM4247",
+    "Vacancy": 23,
+    "Demand": 48
+  },
+  {
+    "index": 164,
+    "Module\rCode": "NM4247",
+    "Vacancy": 23,
+    "Demand": 32
+  },
+  {
+    "index": 165,
+    "Module\rCode": "NM4249",
+    "Vacancy": 36,
+    "Demand": 70
+  },
+  {
+    "index": 166,
+    "Module\rCode": "NM4250",
+    "Vacancy": 36,
+    "Demand": 16
+  },
+  {
+    "index": 167,
+    "Module\rCode": "NM4254",
+    "Vacancy": 36,
+    "Demand": 29
+  },
+  {
+    "index": 168,
+    "Module\rCode": "NM4260",
+    "Vacancy": 34,
+    "Demand": 21
+  },
+  {
+    "index": 169,
+    "Module\rCode": "EC1101E",
+    "Vacancy": 310,
+    "Demand": 19
+  },
+  {
+    "index": 170,
+    "Module\rCode": "EC1101E",
+    "Vacancy": 310,
+    "Demand": 35
+  },
+  {
+    "index": 171,
+    "Module\rCode": "EC2101",
+    "Vacancy": 253,
+    "Demand": 141
+  },
+  {
+    "index": 172,
+    "Module\rCode": "EC2102",
+    "Vacancy": 298,
+    "Demand": 185
+  },
+  {
+    "index": 173,
+    "Module\rCode": "EC2104",
+    "Vacancy": 175,
+    "Demand": 91
+  },
+  {
+    "index": 174,
+    "Module\rCode": "EC2205",
+    "Vacancy": 85,
+    "Demand": 21
+  },
+  {
+    "index": 175,
+    "Module\rCode": "EC2303",
+    "Vacancy": 175,
+    "Demand": 68
+  },
+  {
+    "index": 176,
+    "Module\rCode": "EC2374",
+    "Vacancy": 40,
+    "Demand": 9
+  },
+  {
+    "index": 177,
+    "Module\rCode": "EC3101",
+    "Vacancy": 260,
+    "Demand": 83
+  },
+  {
+    "index": 178,
+    "Module\rCode": "EC3102",
+    "Vacancy": 125,
+    "Demand": 88
+  },
+  {
+    "index": 179,
+    "Module\rCode": "EC3303",
+    "Vacancy": 213,
+    "Demand": 75
+  },
+  {
+    "index": 180,
+    "Module\rCode": "EC3304",
+    "Vacancy": 180,
+    "Demand": 108
+  },
+  {
+    "index": 181,
+    "Module\rCode": "EC3305",
+    "Vacancy": 30,
+    "Demand": 13
+  },
+  {
+    "index": 182,
+    "Module\rCode": "EC3312",
+    "Vacancy": 48,
+    "Demand": 34
+  },
+  {
+    "index": 183,
+    "Module\rCode": "EC3332",
+    "Vacancy": 130,
+    "Demand": 74
+  },
+  {
+    "index": 184,
+    "Module\rCode": "EC3333",
+    "Vacancy": 135,
+    "Demand": 78
+  },
+  {
+    "index": 185,
+    "Module\rCode": "EC3342",
+    "Vacancy": 60,
+    "Demand": 30
+  },
+  {
+    "index": 186,
+    "Module\rCode": "EC3343",
+    "Vacancy": 135,
+    "Demand": 78
+  },
+  {
+    "index": 187,
+    "Module\rCode": "EC3381",
+    "Vacancy": 65,
+    "Demand": 32
+  },
+  {
+    "index": 188,
+    "Module\rCode": "EC3391",
+    "Vacancy": 60,
+    "Demand": 7
+  },
+  {
+    "index": 189,
+    "Module\rCode": "EC4301",
+    "Vacancy": 40,
+    "Demand": 15
+  },
+  {
+    "index": 190,
+    "Module\rCode": "EC4302",
+    "Vacancy": 40,
+    "Demand": 18
+  },
+  {
+    "index": 191,
+    "Module\rCode": "EC4303",
+    "Vacancy": 40,
+    "Demand": 14
+  },
+  {
+    "index": 192,
+    "Module\rCode": "EC4304",
+    "Vacancy": 40,
+    "Demand": 33
+  },
+  {
+    "index": 193,
+    "Module\rCode": "EC4305",
+    "Vacancy": 40,
+    "Demand": 27
+  },
+  {
+    "index": 194,
+    "Module\rCode": "EC4305",
+    "Vacancy": 40,
+    "Demand": 22
+  },
+  {
+    "index": 195,
+    "Module\rCode": "EC4306",
+    "Vacancy": 40,
+    "Demand": 15
+  },
+  {
+    "index": 196,
+    "Module\rCode": "EC4307",
+    "Vacancy": 40,
+    "Demand": 12
+  },
+  {
+    "index": 197,
+    "Module\rCode": "EC4307",
+    "Vacancy": 40,
+    "Demand": 17
+  },
+  {
+    "index": 198,
+    "Module\rCode": "EC4307",
+    "Vacancy": 40,
+    "Demand": 13
+  },
+  {
+    "index": 199,
+    "Module\rCode": "EC4308",
+    "Vacancy": 40,
+    "Demand": 27
+  },
+  {
+    "index": 200,
+    "Module\rCode": "EC4324",
+    "Vacancy": 40,
+    "Demand": 12
+  },
+  {
+    "index": 201,
+    "Module\rCode": "EC4325",
+    "Vacancy": 40,
+    "Demand": 90
+  },
+  {
+    "index": 202,
+    "Module\rCode": "EC4332",
+    "Vacancy": 40,
+    "Demand": 70
+  },
+  {
+    "index": 203,
+    "Module\rCode": "EC4333",
+    "Vacancy": 40,
+    "Demand": 36
+  },
+  {
+    "index": 204,
+    "Module\rCode": "EC4343",
+    "Vacancy": 40,
+    "Demand": 54
+  },
+  {
+    "index": 205,
+    "Module\rCode": "EC4354",
+    "Vacancy": 40,
+    "Demand": 76
+  },
+  {
+    "index": 206,
+    "Module\rCode": "EC4355",
+    "Vacancy": 40,
+    "Demand": 5
+  },
+  {
+    "index": 207,
+    "Module\rCode": "EC4362",
+    "Vacancy": 40,
+    "Demand": 46
+  },
+  {
+    "index": 208,
+    "Module\rCode": "EC4371",
+    "Vacancy": 40,
+    "Demand": 49
+  },
+  {
+    "index": 209,
+    "Module\rCode": "EC4372",
+    "Vacancy": 100,
+    "Demand": 38
+  },
+  {
+    "index": 210,
+    "Module\rCode": "EC4394",
+    "Vacancy": 40,
+    "Demand": 16
+  },
+  {
+    "index": 211,
+    "Module\rCode": "EC4394",
+    "Vacancy": 40,
+    "Demand": 37
+  },
+  {
+    "index": 212,
+    "Module\rCode": "EC4398",
+    "Vacancy": 40,
+    "Demand": 43
+  },
+  {
+    "index": 213,
+    "Module\rCode": "EC4880",
+    "Vacancy": 40,
+    "Demand": 13
+  },
+  {
+    "index": 214,
+    "Module\rCode": "EC5101R",
+    "Vacancy": 10,
+    "Demand": 1
+  },
+  {
+    "index": 215,
+    "Module\rCode": "EC5104R",
+    "Vacancy": 10,
+    "Demand": 1
+  },
+  {
+    "index": 216,
+    "Module\rCode": "EC5326R",
+    "Vacancy": 10,
+    "Demand": 2
+  },
+  {
+    "index": 217,
+    "Module\rCode": "EL2102",
+    "Vacancy": 48,
+    "Demand": 7
+  },
+  {
+    "index": 218,
+    "Module\rCode": "EL2102",
+    "Vacancy": 48,
+    "Demand": 7
+  },
+  {
+    "index": 219,
+    "Module\rCode": "EL2151",
+    "Vacancy": 85,
+    "Demand": 28
+  },
+  {
+    "index": 220,
+    "Module\rCode": "EL3201",
+    "Vacancy": 48,
+    "Demand": 9
+  },
+  {
+    "index": 221,
+    "Module\rCode": "EL3206",
+    "Vacancy": 48,
+    "Demand": 29
+  },
+  {
+    "index": 222,
+    "Module\rCode": "EL3208",
+    "Vacancy": 47,
+    "Demand": 25
+  },
+  {
+    "index": 223,
+    "Module\rCode": "EL3209",
+    "Vacancy": 47,
+    "Demand": 15
+  },
+  {
+    "index": 224,
+    "Module\rCode": "EL3214",
+    "Vacancy": 24,
+    "Demand": 18
+  },
+  {
+    "index": 225,
+    "Module\rCode": "EL4216",
+    "Vacancy": 24,
+    "Demand": 18
+  },
+  {
+    "index": 226,
+    "Module\rCode": "EL4252",
+    "Vacancy": 35,
+    "Demand": 18
+  },
+  {
+    "index": 227,
+    "Module\rCode": "EL4253",
+    "Vacancy": 35,
+    "Demand": 15
+  },
+  {
+    "index": 228,
+    "Module\rCode": "EL4255",
+    "Vacancy": 35,
+    "Demand": 32
+  },
+  {
+    "index": 229,
+    "Module\rCode": "EN2207",
+    "Vacancy": 49,
+    "Demand": 31
+  },
+  {
+    "index": 230,
+    "Module\rCode": "EN2277",
+    "Vacancy": 47,
+    "Demand": 25
+  },
+  {
+    "index": 231,
+    "Module\rCode": "EN3222",
+    "Vacancy": 48,
+    "Demand": 38
+  },
+  {
+    "index": 232,
+    "Module\rCode": "EN3224",
+    "Vacancy": 38,
+    "Demand": 20
+  },
+  {
+    "index": 233,
+    "Module\rCode": "EN3224",
+    "Vacancy": 40,
+    "Demand": 18
+  },
+  {
+    "index": 234,
+    "Module\rCode": "EN3227",
+    "Vacancy": 43,
+    "Demand": 43
+  },
+  {
+    "index": 235,
+    "Module\rCode": "EN3231",
+    "Vacancy": 48,
+    "Demand": 24
+  },
+  {
+    "index": 236,
+    "Module\rCode": "EN4224",
+    "Vacancy": 35,
+    "Demand": 29
+  },
+  {
+    "index": 237,
+    "Module\rCode": "EN4234",
+    "Vacancy": 35,
+    "Demand": 25
+  },
+  {
+    "index": 238,
+    "Module\rCode": "EN4264",
+    "Vacancy": 35,
+    "Demand": 25
+  },
+  {
+    "index": 239,
+    "Module\rCode": "TS2217",
+    "Vacancy": 27,
+    "Demand": 4
+  },
+  {
+    "index": 240,
+    "Module\rCode": "TS2233",
+    "Vacancy": 37,
+    "Demand": 4
+  },
+  {
+    "index": 241,
+    "Module\rCode": "TS2240",
+    "Vacancy": 18,
+    "Demand": 2
+  },
+  {
+    "index": 242,
+    "Module\rCode": "TS3222",
+    "Vacancy": 22,
+    "Demand": 4
+  },
+  {
+    "index": 243,
+    "Module\rCode": "TS3243",
+    "Vacancy": 32,
+    "Demand": 3
+  },
+  {
+    "index": 244,
+    "Module\rCode": "TS3246",
+    "Vacancy": 35,
+    "Demand": 7
+  },
+  {
+    "index": 245,
+    "Module\rCode": "TS4212",
+    "Vacancy": 25,
+    "Demand": 2
+  },
+  {
+    "index": 246,
+    "Module\rCode": "TS4218",
+    "Vacancy": 25,
+    "Demand": 2
+  },
+  {
+    "index": 247,
+    "Module\rCode": "TS4219",
+    "Vacancy": 25,
+    "Demand": 2
+  },
+  {
+    "index": 248,
+    "Module\rCode": "TS4220",
+    "Vacancy": 35,
+    "Demand": 10
+  },
+  {
+    "index": 249,
+    "Module\rCode": "TS4221",
+    "Vacancy": 25,
+    "Demand": 4
+  },
+  {
+    "index": 250,
+    "Module\rCode": "GE2215",
+    "Vacancy": 145,
+    "Demand": 70
+  },
+  {
+    "index": 251,
+    "Module\rCode": "GE2231",
+    "Vacancy": 170,
+    "Demand": 34
+  },
+  {
+    "index": 252,
+    "Module\rCode": "GE3204",
+    "Vacancy": 95,
+    "Demand": 20
+  },
+  {
+    "index": 253,
+    "Module\rCode": "GE3235",
+    "Vacancy": 50,
+    "Demand": 7
+  },
+  {
+    "index": 254,
+    "Module\rCode": "GE3236",
+    "Vacancy": 95,
+    "Demand": 11
+  },
+  {
+    "index": 255,
+    "Module\rCode": "GE3238",
+    "Vacancy": 80,
+    "Demand": 13
+  },
+  {
+    "index": 256,
+    "Module\rCode": "GE3241",
+    "Vacancy": 50,
+    "Demand": 12
+  },
+  {
+    "index": 257,
+    "Module\rCode": "GE3250",
+    "Vacancy": 50,
+    "Demand": 13
+  },
+  {
+    "index": 258,
+    "Module\rCode": "GE3253",
+    "Vacancy": 140,
+    "Demand": 9
+  },
+  {
+    "index": 259,
+    "Module\rCode": "GE3254",
+    "Vacancy": 90,
+    "Demand": 20
+  },
+  {
+    "index": 260,
+    "Module\rCode": "GE3255",
+    "Vacancy": 110,
+    "Demand": 20
+  },
+  {
+    "index": 261,
+    "Module\rCode": "GE4202",
+    "Vacancy": 40,
+    "Demand": 11
+  },
+  {
+    "index": 262,
+    "Module\rCode": "GE4207",
+    "Vacancy": 50,
+    "Demand": 50
+  },
+  {
+    "index": 263,
+    "Module\rCode": "GE4211",
+    "Vacancy": 50,
+    "Demand": 14
+  },
+  {
+    "index": 264,
+    "Module\rCode": "GE4213",
+    "Vacancy": 40,
+    "Demand": 19
+  },
+  {
+    "index": 265,
+    "Module\rCode": "GE4214",
+    "Vacancy": 30,
+    "Demand": 11
+  },
+  {
+    "index": 266,
+    "Module\rCode": "GE4217",
+    "Vacancy": 50,
+    "Demand": 11
+  },
+  {
+    "index": 267,
+    "Module\rCode": "GE4218",
+    "Vacancy": 40,
+    "Demand": 40
+  },
+  {
+    "index": 268,
+    "Module\rCode": "GE4219",
+    "Vacancy": 24,
+    "Demand": 24
+  },
+  {
+    "index": 269,
+    "Module\rCode": "GE4222",
+    "Vacancy": 50,
+    "Demand": 17
+  },
+  {
+    "index": 270,
+    "Module\rCode": "GE4225",
+    "Vacancy": 40,
+    "Demand": 50
+  },
+  {
+    "index": 271,
+    "Module\rCode": "GE4234",
+    "Vacancy": 50,
+    "Demand": 28
+  },
+  {
+    "index": 272,
+    "Module\rCode": "AH2101",
+    "Vacancy": 67,
+    "Demand": 25
+  },
+  {
+    "index": 273,
+    "Module\rCode": "AH2201",
+    "Vacancy": 17,
+    "Demand": 5
+  },
+  {
+    "index": 274,
+    "Module\rCode": "AH2204",
+    "Vacancy": 23,
+    "Demand": 6
+  },
+  {
+    "index": 275,
+    "Module\rCode": "AH3204",
+    "Vacancy": 22,
+    "Demand": 11
+  },
+  {
+    "index": 276,
+    "Module\rCode": "AS2237",
+    "Vacancy": 3,
+    "Demand": 2
+  },
+  {
+    "index": 277,
+    "Module\rCode": "HY2206",
+    "Vacancy": 70,
+    "Demand": 27
+  },
+  {
+    "index": 278,
+    "Module\rCode": "HY2237",
+    "Vacancy": 42,
+    "Demand": 45
+  },
+  {
+    "index": 279,
+    "Module\rCode": "HY2258",
+    "Vacancy": 30,
+    "Demand": 12
+  },
+  {
+    "index": 280,
+    "Module\rCode": "HY3217",
+    "Vacancy": 45,
+    "Demand": 34
+  },
+  {
+    "index": 281,
+    "Module\rCode": "HY3245",
+    "Vacancy": 30,
+    "Demand": 40
+  },
+  {
+    "index": 282,
+    "Module\rCode": "HY3257",
+    "Vacancy": 25,
+    "Demand": 9
+  },
+  {
+    "index": 283,
+    "Module\rCode": "HY3259",
+    "Vacancy": 35,
+    "Demand": 27
+  },
+  {
+    "index": 284,
+    "Module\rCode": "HY3262",
+    "Vacancy": 45,
+    "Demand": 34
+  },
+  {
+    "index": 285,
+    "Module\rCode": "HY4209",
+    "Vacancy": 19,
+    "Demand": 26
+  },
+  {
+    "index": 286,
+    "Module\rCode": "HY4222",
+    "Vacancy": 30,
+    "Demand": 24
+  },
+  {
+    "index": 287,
+    "Module\rCode": "HY4227",
+    "Vacancy": 25,
+    "Demand": 33
+  },
+  {
+    "index": 288,
+    "Module\rCode": "HY4228",
+    "Vacancy": 23,
+    "Demand": 24
+  },
+  {
+    "index": 289,
+    "Module\rCode": "HY4230",
+    "Vacancy": 25,
+    "Demand": 26
+  },
+  {
+    "index": 290,
+    "Module\rCode": "HY4239",
+    "Vacancy": 25,
+    "Demand": 11
+  },
+  {
+    "index": 291,
+    "Module\rCode": "HY4218",
+    "Vacancy": 10,
+    "Demand": 12
+  },
+  {
+    "index": 292,
+    "Module\rCode": "JS2101",
+    "Vacancy": 30,
+    "Demand": 9
+  },
+  {
+    "index": 293,
+    "Module\rCode": "JS2214",
+    "Vacancy": 35,
+    "Demand": 3
+  },
+  {
+    "index": 294,
+    "Module\rCode": "JS2216",
+    "Vacancy": 85,
+    "Demand": 19
+  },
+  {
+    "index": 295,
+    "Module\rCode": "JS3101",
+    "Vacancy": 20,
+    "Demand": 3
+  },
+  {
+    "index": 296,
+    "Module\rCode": "JS3213",
+    "Vacancy": 25,
+    "Demand": 8
+  },
+  {
+    "index": 297,
+    "Module\rCode": "JS3222",
+    "Vacancy": 25,
+    "Demand": 3
+  },
+  {
+    "index": 298,
+    "Module\rCode": "JS3230",
+    "Vacancy": 15,
+    "Demand": 6
+  },
+  {
+    "index": 299,
+    "Module\rCode": "JS4213",
+    "Vacancy": 10,
+    "Demand": 1
+  },
+  {
+    "index": 300,
+    "Module\rCode": "JS4225",
+    "Vacancy": 13,
+    "Demand": 4
+  },
+  {
+    "index": 301,
+    "Module\rCode": "JS4230",
+    "Vacancy": 13,
+    "Demand": 2
+  },
+  {
+    "index": 302,
+    "Module\rCode": "JS4231",
+    "Vacancy": 13,
+    "Demand": 1
+  },
+  {
+    "index": 303,
+    "Module\rCode": "GES1014",
+    "Vacancy": 20,
+    "Demand": 2
+  },
+  {
+    "index": 304,
+    "Module\rCode": "GESS1012",
+    "Vacancy": 25,
+    "Demand": 1
+  },
+  {
+    "index": 305,
+    "Module\rCode": "MS2211",
+    "Vacancy": 25,
+    "Demand": 6
+  },
+  {
+    "index": 306,
+    "Module\rCode": "MS2212",
+    "Vacancy": 28,
+    "Demand": 5
+  },
+  {
+    "index": 307,
+    "Module\rCode": "MS2213",
+    "Vacancy": 28,
+    "Demand": 16
+  },
+  {
+    "index": 308,
+    "Module\rCode": "MS2221",
+    "Vacancy": 45,
+    "Demand": 1
+  },
+  {
+    "index": 309,
+    "Module\rCode": "MS3210",
+    "Vacancy": 30,
+    "Demand": 6
+  },
+  {
+    "index": 310,
+    "Module\rCode": "MS3214",
+    "Vacancy": 20,
+    "Demand": 3
+  },
+  {
+    "index": 311,
+    "Module\rCode": "MS3216",
+    "Vacancy": 25,
+    "Demand": 7
+  },
+  {
+    "index": 312,
+    "Module\rCode": "MS4101",
+    "Vacancy": 20,
+    "Demand": 3
+  },
+  {
+    "index": 313,
+    "Module\rCode": "MS4204",
+    "Vacancy": 25,
+    "Demand": 3
+  },
+  {
+    "index": 314,
+    "Module\rCode": "MS4880A",
+    "Vacancy": 25,
+    "Demand": 3
+  },
+  {
+    "index": 315,
+    "Module\rCode": "GET1028",
+    "Vacancy": 45,
+    "Demand": 3
+  },
+  {
+    "index": 316,
+    "Module\rCode": "GEX1014",
+    "Vacancy": 32,
+    "Demand": 14
+  },
+  {
+    "index": 317,
+    "Module\rCode": "PE3101P",
+    "Vacancy": 23,
+    "Demand": 30
+  },
+  {
+    "index": 318,
+    "Module\rCode": "PE4102P",
+    "Vacancy": 21,
+    "Demand": 5
+  },
+  {
+    "index": 319,
+    "Module\rCode": "PH2208",
+    "Vacancy": 49,
+    "Demand": 15
+  },
+  {
+    "index": 320,
+    "Module\rCode": "PH2209",
+    "Vacancy": 41,
+    "Demand": 16
+  },
+  {
+    "index": 321,
+    "Module\rCode": "PH2211",
+    "Vacancy": 85,
+    "Demand": 25
+  },
+  {
+    "index": 322,
+    "Module\rCode": "PH2212",
+    "Vacancy": 30,
+    "Demand": 10
+  },
+  {
+    "index": 323,
+    "Module\rCode": "PH2241",
+    "Vacancy": 50,
+    "Demand": 35
+  },
+  {
+    "index": 324,
+    "Module\rCode": "PH2243",
+    "Vacancy": 41,
+    "Demand": 7
+  },
+  {
+    "index": 325,
+    "Module\rCode": "PH3203",
+    "Vacancy": 44,
+    "Demand": 10
+  },
+  {
+    "index": 326,
+    "Module\rCode": "PH3217",
+    "Vacancy": 24,
+    "Demand": 8
+  },
+  {
+    "index": 327,
+    "Module\rCode": "PH3245",
+    "Vacancy": 22,
+    "Demand": 2
+  },
+  {
+    "index": 328,
+    "Module\rCode": "PH3250",
+    "Vacancy": 22,
+    "Demand": 1
+  },
+  {
+    "index": 329,
+    "Module\rCode": "PH3252",
+    "Vacancy": 27,
+    "Demand": 4
+  },
+  {
+    "index": 330,
+    "Module\rCode": "PH4202",
+    "Vacancy": 20,
+    "Demand": 6
+  },
+  {
+    "index": 331,
+    "Module\rCode": "PH4203",
+    "Vacancy": 20,
+    "Demand": 8
+  },
+  {
+    "index": 332,
+    "Module\rCode": "PH4206",
+    "Vacancy": 19,
+    "Demand": 6
+  },
+  {
+    "index": 333,
+    "Module\rCode": "PH4214",
+    "Vacancy": 20,
+    "Demand": 8
+  },
+  {
+    "index": 334,
+    "Module\rCode": "PH4244",
+    "Vacancy": 20,
+    "Demand": 1
+  },
+  {
+    "index": 335,
+    "Module\rCode": "GL1101E",
+    "Vacancy": 175,
+    "Demand": 7
+  },
+  {
+    "index": 336,
+    "Module\rCode": "GL2101",
+    "Vacancy": 63,
+    "Demand": 27
+  },
+  {
+    "index": 337,
+    "Module\rCode": "GL2102",
+    "Vacancy": 40,
+    "Demand": 15
+  },
+  {
+    "index": 338,
+    "Module\rCode": "GL2104",
+    "Vacancy": 40,
+    "Demand": 9
+  },
+  {
+    "index": 339,
+    "Module\rCode": "GL3201",
+    "Vacancy": 40,
+    "Demand": 10
+  },
+  {
+    "index": 340,
+    "Module\rCode": "GL4101",
+    "Vacancy": 35,
+    "Demand": 17
+  },
+  {
+    "index": 341,
+    "Module\rCode": "GL4880A",
+    "Vacancy": 40,
+    "Demand": 5
+  },
+  {
+    "index": 342,
+    "Module\rCode": "GL4881A",
+    "Vacancy": 30,
+    "Demand": 15
+  },
+  {
+    "index": 343,
+    "Module\rCode": "GL4882B",
+    "Vacancy": 30,
+    "Demand": 7
+  },
+  {
+    "index": 344,
+    "Module\rCode": "GL4882D",
+    "Vacancy": 30,
+    "Demand": 35
+  },
+  {
+    "index": 345,
+    "Module\rCode": "GL4883B",
+    "Vacancy": 30,
+    "Demand": 22
+  },
+  {
+    "index": 346,
+    "Module\rCode": "GL4884A",
+    "Vacancy": 30,
+    "Demand": 1
+  },
+  {
+    "index": 347,
+    "Module\rCode": "PS2234",
+    "Vacancy": 60,
+    "Demand": 29
+  },
+  {
+    "index": 348,
+    "Module\rCode": "PS2237",
+    "Vacancy": 40,
+    "Demand": 66
+  },
+  {
+    "index": 349,
+    "Module\rCode": "PS2240",
+    "Vacancy": 35,
+    "Demand": 32
+  },
+  {
+    "index": 350,
+    "Module\rCode": "PS2249",
+    "Vacancy": 80,
+    "Demand": 37
+  },
+  {
+    "index": 351,
+    "Module\rCode": "PS2255",
+    "Vacancy": 84,
+    "Demand": 43
+  },
+  {
+    "index": 352,
+    "Module\rCode": "PS2257",
+    "Vacancy": 63,
+    "Demand": 21
+  },
+  {
+    "index": 353,
+    "Module\rCode": "PS2258",
+    "Vacancy": 40,
+    "Demand": 57
+  },
+  {
+    "index": 354,
+    "Module\rCode": "PS3237",
+    "Vacancy": 85,
+    "Demand": 75
+  },
+  {
+    "index": 355,
+    "Module\rCode": "PS3257",
+    "Vacancy": 85,
+    "Demand": 89
+  },
+  {
+    "index": 356,
+    "Module\rCode": "PS3260",
+    "Vacancy": 85,
+    "Demand": 58
+  },
+  {
+    "index": 357,
+    "Module\rCode": "PS3262",
+    "Vacancy": 63,
+    "Demand": 58
+  },
+  {
+    "index": 358,
+    "Module\rCode": "PS3265",
+    "Vacancy": 85,
+    "Demand": 25
+  },
+  {
+    "index": 359,
+    "Module\rCode": "PS3276",
+    "Vacancy": 40,
+    "Demand": 19
+  },
+  {
+    "index": 360,
+    "Module\rCode": "PS3311",
+    "Vacancy": 35,
+    "Demand": 31
+  },
+  {
+    "index": 361,
+    "Module\rCode": "PS4201",
+    "Vacancy": 35,
+    "Demand": 38
+  },
+  {
+    "index": 362,
+    "Module\rCode": "PS4203",
+    "Vacancy": 35,
+    "Demand": 63
+  },
+  {
+    "index": 363,
+    "Module\rCode": "PS4209",
+    "Vacancy": 35,
+    "Demand": 23
+  },
+  {
+    "index": 364,
+    "Module\rCode": "PS4220",
+    "Vacancy": 35,
+    "Demand": 34
+  },
+  {
+    "index": 365,
+    "Module\rCode": "PS4237",
+    "Vacancy": 35,
+    "Demand": 36
+  },
+  {
+    "index": 366,
+    "Module\rCode": "PS4311",
+    "Vacancy": 35,
+    "Demand": 40
+  },
+  {
+    "index": 367,
+    "Module\rCode": "PS4881G",
+    "Vacancy": 35,
+    "Demand": 78
+  },
+  {
+    "index": 368,
+    "Module\rCode": "PS4882A",
+    "Vacancy": 35,
+    "Demand": 50
+  },
+  {
+    "index": 369,
+    "Module\rCode": "PS5314R",
+    "Vacancy": 5,
+    "Demand": 4
+  },
+  {
+    "index": 370,
+    "Module\rCode": "PS5503R",
+    "Vacancy": 5,
+    "Demand": 6
+  },
+  {
+    "index": 371,
+    "Module\rCode": "PL2132",
+    "Vacancy": 195,
+    "Demand": 19
+  },
+  {
+    "index": 372,
+    "Module\rCode": "PL3102",
+    "Vacancy": 150,
+    "Demand": 122
+  },
+  {
+    "index": 373,
+    "Module\rCode": "PL3103",
+    "Vacancy": 150,
+    "Demand": 131
+  },
+  {
+    "index": 374,
+    "Module\rCode": "PL3104",
+    "Vacancy": 150,
+    "Demand": 146
+  },
+  {
+    "index": 375,
+    "Module\rCode": "PL3105",
+    "Vacancy": 150,
+    "Demand": 112
+  },
+  {
+    "index": 376,
+    "Module\rCode": "PL3106",
+    "Vacancy": 150,
+    "Demand": 137
+  },
+  {
+    "index": 377,
+    "Module\rCode": "PL3252",
+    "Vacancy": 112,
+    "Demand": 86
+  },
+  {
+    "index": 378,
+    "Module\rCode": "PL3257",
+    "Vacancy": 112,
+    "Demand": 162
+  },
+  {
+    "index": 379,
+    "Module\rCode": "PL3260",
+    "Vacancy": 112,
+    "Demand": 84
+  },
+  {
+    "index": 380,
+    "Module\rCode": "PL3281",
+    "Vacancy": 20,
+    "Demand": 26
+  },
+  {
+    "index": 381,
+    "Module\rCode": "PL3281D",
+    "Vacancy": 20,
+    "Demand": 7
+  },
+  {
+    "index": 382,
+    "Module\rCode": "PL3281E",
+    "Vacancy": 20,
+    "Demand": 14
+  },
+  {
+    "index": 383,
+    "Module\rCode": "PL3282",
+    "Vacancy": 20,
+    "Demand": 53
+  },
+  {
+    "index": 384,
+    "Module\rCode": "PL3283",
+    "Vacancy": 20,
+    "Demand": 30
+  },
+  {
+    "index": 385,
+    "Module\rCode": "PL3284",
+    "Vacancy": 20,
+    "Demand": 12
+  },
+  {
+    "index": 386,
+    "Module\rCode": "PL3287A",
+    "Vacancy": 20,
+    "Demand": 68
+  },
+  {
+    "index": 387,
+    "Module\rCode": "PL4201",
+    "Vacancy": 79,
+    "Demand": 27
+  },
+  {
+    "index": 388,
+    "Module\rCode": "PL4205",
+    "Vacancy": 40,
+    "Demand": 17
+  },
+  {
+    "index": 389,
+    "Module\rCode": "PL4206",
+    "Vacancy": 40,
+    "Demand": 10
+  },
+  {
+    "index": 390,
+    "Module\rCode": "PL4218",
+    "Vacancy": 40,
+    "Demand": 18
+  },
+  {
+    "index": 391,
+    "Module\rCode": "PL4218",
+    "Vacancy": 40,
+    "Demand": 21
+  },
+  {
+    "index": 392,
+    "Module\rCode": "PL4219",
+    "Vacancy": 40,
+    "Demand": 65
+  },
+  {
+    "index": 393,
+    "Module\rCode": "PL4224",
+    "Vacancy": 40,
+    "Demand": 68
+  },
+  {
+    "index": 394,
+    "Module\rCode": "PL4227",
+    "Vacancy": 40,
+    "Demand": 2
+  },
+  {
+    "index": 395,
+    "Module\rCode": "PL4228",
+    "Vacancy": 40,
+    "Demand": 117
+  },
+  {
+    "index": 396,
+    "Module\rCode": "PL4229",
+    "Vacancy": 40,
+    "Demand": 41
+  },
+  {
+    "index": 397,
+    "Module\rCode": "PL4229",
+    "Vacancy": 40,
+    "Demand": 42
+  },
+  {
+    "index": 398,
+    "Module\rCode": "PL4234",
+    "Vacancy": 40,
+    "Demand": 9
+  },
+  {
+    "index": 399,
+    "Module\rCode": "PL4236",
+    "Vacancy": 40,
+    "Demand": 48
+  },
+  {
+    "index": 400,
+    "Module\rCode": "PL4242",
+    "Vacancy": 80,
+    "Demand": 105
+  },
+  {
+    "index": 401,
+    "Module\rCode": "PL4245",
+    "Vacancy": 80,
+    "Demand": 34
+  },
+  {
+    "index": 402,
+    "Module\rCode": "PL4246",
+    "Vacancy": 80,
+    "Demand": 92
+  },
+  {
+    "index": 403,
+    "Module\rCode": "PL4247",
+    "Vacancy": 40,
+    "Demand": 10
+  },
+  {
+    "index": 404,
+    "Module\rCode": "PL4880H",
+    "Vacancy": 40,
+    "Demand": 21
+  },
+  {
+    "index": 405,
+    "Module\rCode": "PL4880K",
+    "Vacancy": 40,
+    "Demand": 31
+  },
+  {
+    "index": 406,
+    "Module\rCode": "PL4880P",
+    "Vacancy": 40,
+    "Demand": 10
+  },
+  {
+    "index": 407,
+    "Module\rCode": "PL4880R",
+    "Vacancy": 40,
+    "Demand": 40
+  },
+  {
+    "index": 408,
+    "Module\rCode": "PL4880T",
+    "Vacancy": 40,
+    "Demand": 12
+  },
+  {
+    "index": 409,
+    "Module\rCode": "PLS8001",
+    "Vacancy": 25,
+    "Demand": 16
+  },
+  {
+    "index": 410,
+    "Module\rCode": "PLS8001",
+    "Vacancy": 25,
+    "Demand": 27
+  },
+  {
+    "index": 411,
+    "Module\rCode": "PLS8001",
+    "Vacancy": 25,
+    "Demand": 26
+  },
+  {
+    "index": 412,
+    "Module\rCode": "PLS8001",
+    "Vacancy": 25,
+    "Demand": 23
+  },
+  {
+    "index": 413,
+    "Module\rCode": "PLS8001",
+    "Vacancy": 25,
+    "Demand": 6
+  },
+  {
+    "index": 414,
+    "Module\rCode": "PLS8001",
+    "Vacancy": 25,
+    "Demand": 36
+  },
+  {
+    "index": 415,
+    "Module\rCode": "PLS8001",
+    "Vacancy": 25,
+    "Demand": 7
+  },
+  {
+    "index": 416,
+    "Module\rCode": "PLS8001",
+    "Vacancy": 25,
+    "Demand": 11
+  },
+  {
+    "index": 417,
+    "Module\rCode": "PLS8001",
+    "Vacancy": 25,
+    "Demand": 26
+  },
+  {
+    "index": 418,
+    "Module\rCode": "PLS8001",
+    "Vacancy": 25,
+    "Demand": 26
+  },
+  {
+    "index": 419,
+    "Module\rCode": "PLS8001",
+    "Vacancy": 25,
+    "Demand": 8
+  },
+  {
+    "index": 420,
+    "Module\rCode": "PLS8002",
+    "Vacancy": 125,
+    "Demand": 90
+  },
+  {
+    "index": 421,
+    "Module\rCode": "PLS8002",
+    "Vacancy": 125,
+    "Demand": 21
+  },
+  {
+    "index": 422,
+    "Module\rCode": "PLS8003",
+    "Vacancy": 25,
+    "Demand": 29
+  },
+  {
+    "index": 423,
+    "Module\rCode": "PLS8003",
+    "Vacancy": 25,
+    "Demand": 13
+  },
+  {
+    "index": 424,
+    "Module\rCode": "PLS8003",
+    "Vacancy": 25,
+    "Demand": 6
+  },
+  {
+    "index": 425,
+    "Module\rCode": "PLS8003",
+    "Vacancy": 25,
+    "Demand": 16
+  },
+  {
+    "index": 426,
+    "Module\rCode": "PLS8003",
+    "Vacancy": 25,
+    "Demand": 33
+  },
+  {
+    "index": 427,
+    "Module\rCode": "PLS8003",
+    "Vacancy": 25,
+    "Demand": 9
+  },
+  {
+    "index": 428,
+    "Module\rCode": "PLS8003",
+    "Vacancy": 25,
+    "Demand": 31
+  },
+  {
+    "index": 429,
+    "Module\rCode": "PLS8003",
+    "Vacancy": 25,
+    "Demand": 25
+  },
+  {
+    "index": 430,
+    "Module\rCode": "PLS8003",
+    "Vacancy": 25,
+    "Demand": 10
+  },
+  {
+    "index": 431,
+    "Module\rCode": "PLS8003",
+    "Vacancy": 25,
+    "Demand": 30
+  },
+  {
+    "index": 432,
+    "Module\rCode": "PLS8004",
+    "Vacancy": 25,
+    "Demand": 29
+  },
+  {
+    "index": 433,
+    "Module\rCode": "PLS8004",
+    "Vacancy": 25,
+    "Demand": 37
+  },
+  {
+    "index": 434,
+    "Module\rCode": "PLS8004",
+    "Vacancy": 25,
+    "Demand": 7
+  },
+  {
+    "index": 435,
+    "Module\rCode": "PLS8004",
+    "Vacancy": 25,
+    "Demand": 1
+  },
+  {
+    "index": 436,
+    "Module\rCode": "PLS8004",
+    "Vacancy": 25,
+    "Demand": 8
+  },
+  {
+    "index": 437,
+    "Module\rCode": "PLS8004",
+    "Vacancy": 25,
+    "Demand": 32
+  },
+  {
+    "index": 438,
+    "Module\rCode": "PLS8004",
+    "Vacancy": 25,
+    "Demand": 25
+  },
+  {
+    "index": 439,
+    "Module\rCode": "PLS8004",
+    "Vacancy": 25,
+    "Demand": 6
+  },
+  {
+    "index": 440,
+    "Module\rCode": "PLS8004",
+    "Vacancy": 25,
+    "Demand": 30
+  },
+  {
+    "index": 441,
+    "Module\rCode": "PLS8004",
+    "Vacancy": 25,
+    "Demand": 20
+  },
+  {
+    "index": 442,
+    "Module\rCode": "PLS8005",
+    "Vacancy": 25,
+    "Demand": 26
+  },
+  {
+    "index": 443,
+    "Module\rCode": "PLS8005",
+    "Vacancy": 25,
+    "Demand": 25
+  },
+  {
+    "index": 444,
+    "Module\rCode": "PLS8005",
+    "Vacancy": 25,
+    "Demand": 12
+  },
+  {
+    "index": 445,
+    "Module\rCode": "PLS8005",
+    "Vacancy": 25,
+    "Demand": 27
+  },
+  {
+    "index": 446,
+    "Module\rCode": "PLS8005",
+    "Vacancy": 25,
+    "Demand": 2
+  },
+  {
+    "index": 447,
+    "Module\rCode": "PLS8005",
+    "Vacancy": 25,
+    "Demand": 5
+  },
+  {
+    "index": 448,
+    "Module\rCode": "PLS8005",
+    "Vacancy": 25,
+    "Demand": 5
+  },
+  {
+    "index": 449,
+    "Module\rCode": "PLS8005",
+    "Vacancy": 25,
+    "Demand": 3
+  },
+  {
+    "index": 450,
+    "Module\rCode": "PLS8005",
+    "Vacancy": 25,
+    "Demand": 26
+  },
+  {
+    "index": 451,
+    "Module\rCode": "PLS8005",
+    "Vacancy": 25,
+    "Demand": 7
+  },
+  {
+    "index": 452,
+    "Module\rCode": "PLS8005",
+    "Vacancy": 25,
+    "Demand": 3
+  },
+  {
+    "index": 453,
+    "Module\rCode": "SW2101",
+    "Vacancy": 50,
+    "Demand": 23
+  },
+  {
+    "index": 454,
+    "Module\rCode": "SW2104",
+    "Vacancy": 75,
+    "Demand": 27
+  },
+  {
+    "index": 455,
+    "Module\rCode": "SW2105",
+    "Vacancy": 50,
+    "Demand": 37
+  },
+  {
+    "index": 456,
+    "Module\rCode": "SW2106",
+    "Vacancy": 75,
+    "Demand": 28
+  },
+  {
+    "index": 457,
+    "Module\rCode": "SW3101",
+    "Vacancy": 60,
+    "Demand": 4
+  },
+  {
+    "index": 458,
+    "Module\rCode": "SW3105",
+    "Vacancy": 100,
+    "Demand": 23
+  },
+  {
+    "index": 459,
+    "Module\rCode": "SW3221",
+    "Vacancy": 75,
+    "Demand": 43
+  },
+  {
+    "index": 460,
+    "Module\rCode": "SW3224",
+    "Vacancy": 55,
+    "Demand": 3
+  },
+  {
+    "index": 461,
+    "Module\rCode": "SW3880",
+    "Vacancy": 50,
+    "Demand": 14
+  },
+  {
+    "index": 462,
+    "Module\rCode": "SW4102",
+    "Vacancy": 100,
+    "Demand": 13
+  },
+  {
+    "index": 463,
+    "Module\rCode": "SW4103",
+    "Vacancy": 70,
+    "Demand": 5
+  },
+  {
+    "index": 464,
+    "Module\rCode": "SW4202",
+    "Vacancy": 45,
+    "Demand": 68
+  },
+  {
+    "index": 465,
+    "Module\rCode": "SW4223",
+    "Vacancy": 45,
+    "Demand": 65
+  },
+  {
+    "index": 466,
+    "Module\rCode": "SW4225",
+    "Vacancy": 27,
+    "Demand": 57
+  },
+  {
+    "index": 467,
+    "Module\rCode": "SW4227",
+    "Vacancy": 100,
+    "Demand": 56
+  },
+  {
+    "index": 468,
+    "Module\rCode": "SW4229",
+    "Vacancy": 45,
+    "Demand": 15
+  },
+  {
+    "index": 469,
+    "Module\rCode": "SW4880",
+    "Vacancy": 45,
+    "Demand": 42
+  },
+  {
+    "index": 470,
+    "Module\rCode": "EU3224",
+    "Vacancy": 1,
+    "Demand": 1
+  },
+  {
+    "index": 471,
+    "Module\rCode": "SC2204",
+    "Vacancy": 40,
+    "Demand": 72
+  },
+  {
+    "index": 472,
+    "Module\rCode": "SC2205",
+    "Vacancy": 40,
+    "Demand": 36
+  },
+  {
+    "index": 473,
+    "Module\rCode": "SC2208",
+    "Vacancy": 40,
+    "Demand": 5
+  },
+  {
+    "index": 474,
+    "Module\rCode": "SC2209",
+    "Vacancy": 40,
+    "Demand": 13
+  },
+  {
+    "index": 475,
+    "Module\rCode": "SC2217",
+    "Vacancy": 40,
+    "Demand": 2
+  },
+  {
+    "index": 476,
+    "Module\rCode": "SC2220",
+    "Vacancy": 100,
+    "Demand": 46
+  },
+  {
+    "index": 477,
+    "Module\rCode": "SC2222",
+    "Vacancy": 40,
+    "Demand": 7
+  },
+  {
+    "index": 478,
+    "Module\rCode": "SC2225",
+    "Vacancy": 40,
+    "Demand": 10
+  },
+  {
+    "index": 479,
+    "Module\rCode": "SC2227",
+    "Vacancy": 40,
+    "Demand": 40
+  },
+  {
+    "index": 480,
+    "Module\rCode": "SC3101",
+    "Vacancy": 75,
+    "Demand": 110
+  },
+  {
+    "index": 481,
+    "Module\rCode": "SC3203",
+    "Vacancy": 35,
+    "Demand": 9
+  },
+  {
+    "index": 482,
+    "Module\rCode": "SC3204",
+    "Vacancy": 35,
+    "Demand": 44
+  },
+  {
+    "index": 483,
+    "Module\rCode": "SC3206",
+    "Vacancy": 40,
+    "Demand": 14
+  },
+  {
+    "index": 484,
+    "Module\rCode": "SC3207",
+    "Vacancy": 35,
+    "Demand": 14
+  },
+  {
+    "index": 485,
+    "Module\rCode": "SC3209",
+    "Vacancy": 40,
+    "Demand": 20
+  },
+  {
+    "index": 486,
+    "Module\rCode": "SC3211",
+    "Vacancy": 40,
+    "Demand": 15
+  },
+  {
+    "index": 487,
+    "Module\rCode": "SC3212",
+    "Vacancy": 40,
+    "Demand": 2
+  },
+  {
+    "index": 488,
+    "Module\rCode": "SC3213",
+    "Vacancy": 80,
+    "Demand": 72
+  },
+  {
+    "index": 489,
+    "Module\rCode": "SC3216",
+    "Vacancy": 40,
+    "Demand": 19
+  },
+  {
+    "index": 490,
+    "Module\rCode": "SC3223",
+    "Vacancy": 37,
+    "Demand": 13
+  },
+  {
+    "index": 491,
+    "Module\rCode": "SC3227",
+    "Vacancy": 40,
+    "Demand": 5
+  },
+  {
+    "index": 492,
+    "Module\rCode": "SC3228",
+    "Vacancy": 40,
+    "Demand": 6
+  },
+  {
+    "index": 493,
+    "Module\rCode": "SC3229",
+    "Vacancy": 40,
+    "Demand": 24
+  },
+  {
+    "index": 494,
+    "Module\rCode": "SC4101",
+    "Vacancy": 158,
+    "Demand": 129
+  },
+  {
+    "index": 495,
+    "Module\rCode": "SC4202",
+    "Vacancy": 40,
+    "Demand": 20
+  },
+  {
+    "index": 496,
+    "Module\rCode": "SC4203",
+    "Vacancy": 40,
+    "Demand": 20
+  },
+  {
+    "index": 497,
+    "Module\rCode": "SC4205",
+    "Vacancy": 40,
+    "Demand": 40
+  },
+  {
+    "index": 498,
+    "Module\rCode": "SC4211",
+    "Vacancy": 40,
+    "Demand": 28
+  },
+  {
+    "index": 499,
+    "Module\rCode": "SC4217",
+    "Vacancy": 40,
+    "Demand": 75
+  },
+  {
+    "index": 500,
+    "Module\rCode": "SC4218",
+    "Vacancy": 45,
+    "Demand": 4
+  },
+  {
+    "index": 501,
+    "Module\rCode": "SC4219",
+    "Vacancy": 40,
+    "Demand": 32
+  },
+  {
+    "index": 502,
+    "Module\rCode": "SC4220",
+    "Vacancy": 40,
+    "Demand": 27
+  },
+  {
+    "index": 503,
+    "Module\rCode": "SC4224",
+    "Vacancy": 40,
+    "Demand": 25
+  },
+  {
+    "index": 504,
+    "Module\rCode": "SC4228",
+    "Vacancy": 40,
+    "Demand": 48
+  },
+  {
+    "index": 505,
+    "Module\rCode": "SC4880C",
+    "Vacancy": 40,
+    "Demand": 42
+  },
+  {
+    "index": 506,
+    "Module\rCode": "SC4881",
+    "Vacancy": 40,
+    "Demand": 17
+  },
+  {
+    "index": 507,
+    "Module\rCode": "SC5218R",
+    "Vacancy": 5,
+    "Demand": 2
+  },
+  {
+    "index": 508,
+    "Module\rCode": "SN2213",
+    "Vacancy": 20,
+    "Demand": 2
+  },
+  {
+    "index": 509,
+    "Module\rCode": "SN2261",
+    "Vacancy": 20,
+    "Demand": 2
+  },
+  {
+    "index": 510,
+    "Module\rCode": "SN2271",
+    "Vacancy": 35,
+    "Demand": 1
+  },
+  {
+    "index": 511,
+    "Module\rCode": "SN3223",
+    "Vacancy": 23,
+    "Demand": 3
+  },
+  {
+    "index": 512,
+    "Module\rCode": "SN3281",
+    "Vacancy": 25,
+    "Demand": 3
+  },
+  {
+    "index": 513,
+    "Module\rCode": "SE2224",
+    "Vacancy": 23,
+    "Demand": 8
+  },
+  {
+    "index": 514,
+    "Module\rCode": "SE3211",
+    "Vacancy": 40,
+    "Demand": 13
+  },
+  {
+    "index": 515,
+    "Module\rCode": "SE3232",
+    "Vacancy": 35,
+    "Demand": 11
+  },
+  {
+    "index": 516,
+    "Module\rCode": "SE4101",
+    "Vacancy": 25,
+    "Demand": 2
+  },
+  {
+    "index": 517,
+    "Module\rCode": "SE4218",
+    "Vacancy": 19,
+    "Demand": 4
+  },
+  {
+    "index": 518,
+    "Module\rCode": "SE4227",
+    "Vacancy": 23,
+    "Demand": 2
+  },
+  {
+    "index": 519,
+    "Module\rCode": "LSM2212",
+    "Vacancy": 176,
+    "Demand": 70
+  },
+  {
+    "index": 520,
+    "Module\rCode": "LSM2106",
+    "Vacancy": 240,
+    "Demand": 227
+  },
+  {
+    "index": 521,
+    "Module\rCode": "LSM2233",
+    "Vacancy": 240,
+    "Demand": 88
+  },
+  {
+    "index": 522,
+    "Module\rCode": "LSM3210",
+    "Vacancy": 240,
+    "Demand": 13
+  },
+  {
+    "index": 523,
+    "Module\rCode": "LSM3231",
+    "Vacancy": 35,
+    "Demand": 18
+  },
+  {
+    "index": 524,
+    "Module\rCode": "LSM3246",
+    "Vacancy": 85,
+    "Demand": 13
+  },
+  {
+    "index": 525,
+    "Module\rCode": "LSM4216",
+    "Vacancy": 36,
+    "Demand": 46
+  },
+  {
+    "index": 526,
+    "Module\rCode": "ENV3101",
+    "Vacancy": 50,
+    "Demand": 9
+  },
+  {
+    "index": 527,
+    "Module\rCode": "FSC2101",
+    "Vacancy": 395,
+    "Demand": 196
+  },
+  {
+    "index": 528,
+    "Module\rCode": "FSC4201",
+    "Vacancy": 40,
+    "Demand": 12
+  },
+  {
+    "index": 529,
+    "Module\rCode": "LSM1111",
+    "Vacancy": 42,
+    "Demand": 11
+  },
+  {
+    "index": 530,
+    "Module\rCode": "LSM1301",
+    "Vacancy": 288,
+    "Demand": 136
+  },
+  {
+    "index": 531,
+    "Module\rCode": "LSM2105",
+    "Vacancy": 244,
+    "Demand": 87
+  },
+  {
+    "index": 532,
+    "Module\rCode": "LSM2107",
+    "Vacancy": 246,
+    "Demand": 109
+  },
+  {
+    "index": 533,
+    "Module\rCode": "LSM2191",
+    "Vacancy": 190,
+    "Demand": 187
+  },
+  {
+    "index": 534,
+    "Module\rCode": "LSM2241",
+    "Vacancy": 97,
+    "Demand": 39
+  },
+  {
+    "index": 535,
+    "Module\rCode": "LSM2251",
+    "Vacancy": 89,
+    "Demand": 26
+  },
+  {
+    "index": 536,
+    "Module\rCode": "LSM2252",
+    "Vacancy": 110,
+    "Demand": 25
+  },
+  {
+    "index": 537,
+    "Module\rCode": "LSM2302",
+    "Vacancy": 150,
+    "Demand": 103
+  },
+  {
+    "index": 538,
+    "Module\rCode": "LSM3201",
+    "Vacancy": 15,
+    "Demand": 10
+  },
+  {
+    "index": 539,
+    "Module\rCode": "LSM3220",
+    "Vacancy": 150,
+    "Demand": 10
+  },
+  {
+    "index": 540,
+    "Module\rCode": "LSM3227",
+    "Vacancy": 28,
+    "Demand": 7
+  },
+  {
+    "index": 541,
+    "Module\rCode": "LSM3233",
+    "Vacancy": 45,
+    "Demand": 23
+  },
+  {
+    "index": 542,
+    "Module\rCode": "LSM3234",
+    "Vacancy": 45,
+    "Demand": 13
+  },
+  {
+    "index": 543,
+    "Module\rCode": "LSM3236",
+    "Vacancy": 40,
+    "Demand": 1
+  },
+  {
+    "index": 544,
+    "Module\rCode": "LSM3254",
+    "Vacancy": 145,
+    "Demand": 40
+  },
+  {
+    "index": 545,
+    "Module\rCode": "LSM3258",
+    "Vacancy": 45,
+    "Demand": 12
+  },
+  {
+    "index": 546,
+    "Module\rCode": "LSM3265",
+    "Vacancy": 45,
+    "Demand": 12
+  },
+  {
+    "index": 547,
+    "Module\rCode": "LSM4227",
+    "Vacancy": 78,
+    "Demand": 24
+  },
+  {
+    "index": 548,
+    "Module\rCode": "LSM4228",
+    "Vacancy": 48,
+    "Demand": 24
+  },
+  {
+    "index": 549,
+    "Module\rCode": "LSM4242",
+    "Vacancy": 46,
+    "Demand": 20
+  },
+  {
+    "index": 550,
+    "Module\rCode": "LSM4251",
+    "Vacancy": 25,
+    "Demand": 8
+  },
+  {
+    "index": 551,
+    "Module\rCode": "LSM4256",
+    "Vacancy": 20,
+    "Demand": 7
+  },
+  {
+    "index": 552,
+    "Module\rCode": "LSM4257",
+    "Vacancy": 48,
+    "Demand": 43
+  },
+  {
+    "index": 553,
+    "Module\rCode": "LSM4259",
+    "Vacancy": 28,
+    "Demand": 14
+  },
+  {
+    "index": 554,
+    "Module\rCode": "LSM4260",
+    "Vacancy": 48,
+    "Demand": 11
+  },
+  {
+    "index": 555,
+    "Module\rCode": "LSM4262",
+    "Vacancy": 50,
+    "Demand": 19
+  },
+  {
+    "index": 556,
+    "Module\rCode": "LSM4267",
+    "Vacancy": 45,
+    "Demand": 9
+  },
+  {
+    "index": 557,
+    "Module\rCode": "LSM4268",
+    "Vacancy": 44,
+    "Demand": 17
+  },
+  {
+    "index": 558,
+    "Module\rCode": "SP3203",
+    "Vacancy": 40,
+    "Demand": 15
+  },
+  {
+    "index": 559,
+    "Module\rCode": "ZB4171",
+    "Vacancy": 20,
+    "Demand": 16
+  },
+  {
+    "index": 560,
+    "Module\rCode": "CM1102",
+    "Vacancy": 3,
+    "Demand": 3
+  },
+  {
+    "index": 561,
+    "Module\rCode": "CM2112",
+    "Vacancy": 82,
+    "Demand": 82
+  },
+  {
+    "index": 562,
+    "Module\rCode": "CM2122",
+    "Vacancy": 80,
+    "Demand": 80
+  },
+  {
+    "index": 563,
+    "Module\rCode": "CM2133",
+    "Vacancy": 16,
+    "Demand": 16
+  },
+  {
+    "index": 564,
+    "Module\rCode": "CM2143",
+    "Vacancy": 41,
+    "Demand": 41
+  },
+  {
+    "index": 565,
+    "Module\rCode": "CM3212",
+    "Vacancy": 35,
+    "Demand": 35
+  },
+  {
+    "index": 566,
+    "Module\rCode": "CM3221",
+    "Vacancy": 21,
+    "Demand": 21
+  },
+  {
+    "index": 567,
+    "Module\rCode": "CM3242",
+    "Vacancy": 49,
+    "Demand": 49
+  },
+  {
+    "index": 568,
+    "Module\rCode": "CM3252",
+    "Vacancy": 18,
+    "Demand": 18
+  },
+  {
+    "index": 569,
+    "Module\rCode": "CM3261",
+    "Vacancy": 11,
+    "Demand": 11
+  },
+  {
+    "index": 570,
+    "Module\rCode": "CM3267",
+    "Vacancy": 10,
+    "Demand": 10
+  },
+  {
+    "index": 571,
+    "Module\rCode": "CM3291",
+    "Vacancy": 80,
+    "Demand": 36
+  },
+  {
+    "index": 572,
+    "Module\rCode": "CM3292",
+    "Vacancy": 100,
+    "Demand": 35
+  },
+  {
+    "index": 573,
+    "Module\rCode": "CM4225",
+    "Vacancy": 20,
+    "Demand": 20
+  },
+  {
+    "index": 574,
+    "Module\rCode": "CM4227",
+    "Vacancy": 12,
+    "Demand": 12
+  },
+  {
+    "index": 575,
+    "Module\rCode": "CM4236",
+    "Vacancy": 10,
+    "Demand": 10
+  },
+  {
+    "index": 576,
+    "Module\rCode": "CM4242",
+    "Vacancy": 23,
+    "Demand": 23
+  },
+  {
+    "index": 577,
+    "Module\rCode": "CM4251",
+    "Vacancy": 8,
+    "Demand": 8
+  },
+  {
+    "index": 578,
+    "Module\rCode": "CM4253",
+    "Vacancy": 5,
+    "Demand": 5
+  },
+  {
+    "index": 579,
+    "Module\rCode": "CM4254",
+    "Vacancy": 11,
+    "Demand": 11
+  },
+  {
+    "index": 580,
+    "Module\rCode": "CM4274",
+    "Vacancy": 11,
+    "Demand": 11
+  },
+  {
+    "index": 581,
+    "Module\rCode": "FST2102B",
+    "Vacancy": 96,
+    "Demand": 53
+  },
+  {
+    "index": 582,
+    "Module\rCode": "FST3101",
+    "Vacancy": 84,
+    "Demand": 19
+  },
+  {
+    "index": 583,
+    "Module\rCode": "FST3103",
+    "Vacancy": 67,
+    "Demand": 19
+  },
+  {
+    "index": 584,
+    "Module\rCode": "FST3105",
+    "Vacancy": 57,
+    "Demand": 19
+  },
+  {
+    "index": 585,
+    "Module\rCode": "FST3106",
+    "Vacancy": 67,
+    "Demand": 24
+  },
+  {
+    "index": 586,
+    "Module\rCode": "FST3202",
+    "Vacancy": 56,
+    "Demand": 22
+  },
+  {
+    "index": 587,
+    "Module\rCode": "FST4202",
+    "Vacancy": 56,
+    "Demand": 9
+  },
+  {
+    "index": 588,
+    "Module\rCode": "FST5225",
+    "Vacancy": 10,
+    "Demand": 14
+  },
+  {
+    "index": 589,
+    "Module\rCode": "FST5226",
+    "Vacancy": 5,
+    "Demand": 12
+  },
+  {
+    "index": 590,
+    "Module\rCode": "FST5227",
+    "Vacancy": 5,
+    "Demand": 8
+  },
+  {
+    "index": 591,
+    "Module\rCode": "FST5301A",
+    "Vacancy": 10,
+    "Demand": 1
+  },
+  {
+    "index": 592,
+    "Module\rCode": "DSA2102",
+    "Vacancy": 198,
+    "Demand": 26
+  },
+  {
+    "index": 593,
+    "Module\rCode": "DSA3102",
+    "Vacancy": 158,
+    "Demand": 9
+  },
+  {
+    "index": 594,
+    "Module\rCode": "MA1100",
+    "Vacancy": 100,
+    "Demand": 10
+  },
+  {
+    "index": 595,
+    "Module\rCode": "MA1301",
+    "Vacancy": 259,
+    "Demand": 2
+  },
+  {
+    "index": 596,
+    "Module\rCode": "MA1301",
+    "Vacancy": 300,
+    "Demand": 4
+  },
+  {
+    "index": 597,
+    "Module\rCode": "MA1505",
+    "Vacancy": 14,
+    "Demand": 1
+  },
+  {
+    "index": 598,
+    "Module\rCode": "MA1511",
+    "Vacancy": 25,
+    "Demand": 5
+  },
+  {
+    "index": 599,
+    "Module\rCode": "MA1511",
+    "Vacancy": 34,
+    "Demand": 2
+  },
+  {
+    "index": 600,
+    "Module\rCode": "MA1512",
+    "Vacancy": 44,
+    "Demand": 8
+  },
+  {
+    "index": 601,
+    "Module\rCode": "MA1512",
+    "Vacancy": 43,
+    "Demand": 4
+  },
+  {
+    "index": 602,
+    "Module\rCode": "MA1513",
+    "Vacancy": 22,
+    "Demand": 3
+  },
+  {
+    "index": 603,
+    "Module\rCode": "MA1513",
+    "Vacancy": 40,
+    "Demand": 6
+  },
+  {
+    "index": 604,
+    "Module\rCode": "MA1521",
+    "Vacancy": 350,
+    "Demand": 14
+  },
+  {
+    "index": 605,
+    "Module\rCode": "MA1521",
+    "Vacancy": 357,
+    "Demand": 19
+  },
+  {
+    "index": 606,
+    "Module\rCode": "MA2001",
+    "Vacancy": 470,
+    "Demand": 111
+  },
+  {
+    "index": 607,
+    "Module\rCode": "MA2001",
+    "Vacancy": 475,
+    "Demand": 64
+  },
+  {
+    "index": 608,
+    "Module\rCode": "MA2002",
+    "Vacancy": 324,
+    "Demand": 22
+  },
+  {
+    "index": 609,
+    "Module\rCode": "MA2002",
+    "Vacancy": 325,
+    "Demand": 18
+  },
+  {
+    "index": 610,
+    "Module\rCode": "MA2101",
+    "Vacancy": 128,
+    "Demand": 64
+  },
+  {
+    "index": 611,
+    "Module\rCode": "MA2104",
+    "Vacancy": 199,
+    "Demand": 124
+  },
+  {
+    "index": 612,
+    "Module\rCode": "MA2108",
+    "Vacancy": 89,
+    "Demand": 74
+  },
+  {
+    "index": 613,
+    "Module\rCode": "MA2116",
+    "Vacancy": 380,
+    "Demand": 33
+  },
+  {
+    "index": 614,
+    "Module\rCode": "MA2213",
+    "Vacancy": 110,
+    "Demand": 33
+  },
+  {
+    "index": 615,
+    "Module\rCode": "MA2214",
+    "Vacancy": 100,
+    "Demand": 33
+  },
+  {
+    "index": 616,
+    "Module\rCode": "MA2301",
+    "Vacancy": 380,
+    "Demand": 8
+  },
+  {
+    "index": 617,
+    "Module\rCode": "MA2311",
+    "Vacancy": 440,
+    "Demand": 252
+  },
+  {
+    "index": 618,
+    "Module\rCode": "MA3205",
+    "Vacancy": 20,
+    "Demand": 33
+  },
+  {
+    "index": 619,
+    "Module\rCode": "MA3209",
+    "Vacancy": 27,
+    "Demand": 11
+  },
+  {
+    "index": 620,
+    "Module\rCode": "MA3210",
+    "Vacancy": 45,
+    "Demand": 32
+  },
+  {
+    "index": 621,
+    "Module\rCode": "MA3220",
+    "Vacancy": 70,
+    "Demand": 31
+  },
+  {
+    "index": 622,
+    "Module\rCode": "MA3236",
+    "Vacancy": 45,
+    "Demand": 51
+  },
+  {
+    "index": 623,
+    "Module\rCode": "MA3259",
+    "Vacancy": 32,
+    "Demand": 3
+  },
+  {
+    "index": 624,
+    "Module\rCode": "MA3264",
+    "Vacancy": 50,
+    "Demand": 45
+  },
+  {
+    "index": 625,
+    "Module\rCode": "MA3269",
+    "Vacancy": 180,
+    "Demand": 76
+  },
+  {
+    "index": 626,
+    "Module\rCode": "MA4203",
+    "Vacancy": 13,
+    "Demand": 12
+  },
+  {
+    "index": 627,
+    "Module\rCode": "MA4230",
+    "Vacancy": 23,
+    "Demand": 23
+  },
+  {
+    "index": 628,
+    "Module\rCode": "MA4235",
+    "Vacancy": 25,
+    "Demand": 5
+  },
+  {
+    "index": 629,
+    "Module\rCode": "MA4254",
+    "Vacancy": 45,
+    "Demand": 13
+  },
+  {
+    "index": 630,
+    "Module\rCode": "MA4262",
+    "Vacancy": 25,
+    "Demand": 16
+  },
+  {
+    "index": 631,
+    "Module\rCode": "MA4270",
+    "Vacancy": 50,
+    "Demand": 29
+  },
+  {
+    "index": 632,
+    "Module\rCode": "MA5203",
+    "Vacancy": 5,
+    "Demand": 4
+  },
+  {
+    "index": 633,
+    "Module\rCode": "MA5210",
+    "Vacancy": 5,
+    "Demand": 1
+  },
+  {
+    "index": 634,
+    "Module\rCode": "MA5211",
+    "Vacancy": 5,
+    "Demand": 4
+  },
+  {
+    "index": 635,
+    "Module\rCode": "MA5217",
+    "Vacancy": 5,
+    "Demand": 1
+  },
+  {
+    "index": 636,
+    "Module\rCode": "MA5219",
+    "Vacancy": 4,
+    "Demand": 2
+  },
+  {
+    "index": 637,
+    "Module\rCode": "MA5243",
+    "Vacancy": 5,
+    "Demand": 1
+  },
+  {
+    "index": 638,
+    "Module\rCode": "MA5249",
+    "Vacancy": 5,
+    "Demand": 3
+  },
+  {
+    "index": 639,
+    "Module\rCode": "MA5252",
+    "Vacancy": 5,
+    "Demand": 1
+  },
+  {
+    "index": 640,
+    "Module\rCode": "QF1100",
+    "Vacancy": 130,
+    "Demand": 75
+  },
+  {
+    "index": 641,
+    "Module\rCode": "QF4102",
+    "Vacancy": 50,
+    "Demand": 25
+  },
+  {
+    "index": 642,
+    "Module\rCode": "QF4103",
+    "Vacancy": 70,
+    "Demand": 14
+  },
+  {
+    "index": 643,
+    "Module\rCode": "LSM2291",
+    "Vacancy": 40,
+    "Demand": 9
+  },
+  {
+    "index": 644,
+    "Module\rCode": "LSM3223",
+    "Vacancy": 90,
+    "Demand": 39
+  },
+  {
+    "index": 645,
+    "Module\rCode": "LSM3232",
+    "Vacancy": 40,
+    "Demand": 58
+  },
+  {
+    "index": 646,
+    "Module\rCode": "LSM3245",
+    "Vacancy": 37,
+    "Demand": 12
+  },
+  {
+    "index": 647,
+    "Module\rCode": "LSM4222",
+    "Vacancy": 45,
+    "Demand": 20
+  },
+  {
+    "index": 648,
+    "Module\rCode": "LSM4223",
+    "Vacancy": 40,
+    "Demand": 27
+  },
+  {
+    "index": 649,
+    "Module\rCode": "LSM4226",
+    "Vacancy": 70,
+    "Demand": 49
+  },
+  {
+    "index": 650,
+    "Module\rCode": "LSM3211",
+    "Vacancy": 160,
+    "Demand": 64
+  },
+  {
+    "index": 651,
+    "Module\rCode": "LSM4214",
+    "Vacancy": 55,
+    "Demand": 37
+  },
+  {
+    "index": 652,
+    "Module\rCode": "LSM4221",
+    "Vacancy": 93,
+    "Demand": 48
+  },
+  {
+    "index": 653,
+    "Module\rCode": "PHS2101",
+    "Vacancy": 80,
+    "Demand": 57
+  },
+  {
+    "index": 654,
+    "Module\rCode": "PHS2103",
+    "Vacancy": 80,
+    "Demand": 57
+  },
+  {
+    "index": 655,
+    "Module\rCode": "PHS3116",
+    "Vacancy": 50,
+    "Demand": 23
+  },
+  {
+    "index": 656,
+    "Module\rCode": "PHS3123",
+    "Vacancy": 50,
+    "Demand": 23
+  },
+  {
+    "index": 657,
+    "Module\rCode": "PHS3191",
+    "Vacancy": 50,
+    "Demand": 21
+  },
+  {
+    "index": 658,
+    "Module\rCode": "PHS4121",
+    "Vacancy": 45,
+    "Demand": 40
+  },
+  {
+    "index": 659,
+    "Module\rCode": "PR3202",
+    "Vacancy": 40,
+    "Demand": 16
+  },
+  {
+    "index": 660,
+    "Module\rCode": "PR4204",
+    "Vacancy": 30,
+    "Demand": 20
+  },
+  {
+    "index": 661,
+    "Module\rCode": "COS1000",
+    "Vacancy": 270,
+    "Demand": 226
+  },
+  {
+    "index": 662,
+    "Module\rCode": "PC1201",
+    "Vacancy": 184,
+    "Demand": 37
+  },
+  {
+    "index": 663,
+    "Module\rCode": "PC2031",
+    "Vacancy": 97,
+    "Demand": 14
+  },
+  {
+    "index": 664,
+    "Module\rCode": "PC2032",
+    "Vacancy": 93,
+    "Demand": 7
+  },
+  {
+    "index": 665,
+    "Module\rCode": "PC2130",
+    "Vacancy": 95,
+    "Demand": 20
+  },
+  {
+    "index": 666,
+    "Module\rCode": "PC2193",
+    "Vacancy": 47,
+    "Demand": 17
+  },
+  {
+    "index": 667,
+    "Module\rCode": "PC2267",
+    "Vacancy": 37,
+    "Demand": 6
+  },
+  {
+    "index": 668,
+    "Module\rCode": "PC3130",
+    "Vacancy": 100,
+    "Demand": 27
+  },
+  {
+    "index": 669,
+    "Module\rCode": "PC3193",
+    "Vacancy": 47,
+    "Demand": 19
+  },
+  {
+    "index": 670,
+    "Module\rCode": "PC3231",
+    "Vacancy": 35,
+    "Demand": 9
+  },
+  {
+    "index": 671,
+    "Module\rCode": "PC3235",
+    "Vacancy": 30,
+    "Demand": 19
+  },
+  {
+    "index": 672,
+    "Module\rCode": "PC3238",
+    "Vacancy": 32,
+    "Demand": 5
+  },
+  {
+    "index": 673,
+    "Module\rCode": "PC3242",
+    "Vacancy": 18,
+    "Demand": 8
+  },
+  {
+    "index": 674,
+    "Module\rCode": "PC3247",
+    "Vacancy": 25,
+    "Demand": 8
+  },
+  {
+    "index": 675,
+    "Module\rCode": "PC3261",
+    "Vacancy": 86,
+    "Demand": 7
+  },
+  {
+    "index": 676,
+    "Module\rCode": "PC3294",
+    "Vacancy": 10,
+    "Demand": 6
+  },
+  {
+    "index": 677,
+    "Module\rCode": "PC4230",
+    "Vacancy": 34,
+    "Demand": 13
+  },
+  {
+    "index": 678,
+    "Module\rCode": "PC4236",
+    "Vacancy": 30,
+    "Demand": 4
+  },
+  {
+    "index": 679,
+    "Module\rCode": "PC4240",
+    "Vacancy": 32,
+    "Demand": 8
+  },
+  {
+    "index": 680,
+    "Module\rCode": "PC4248",
+    "Vacancy": 30,
+    "Demand": 15
+  },
+  {
+    "index": 681,
+    "Module\rCode": "PC4249",
+    "Vacancy": 23,
+    "Demand": 9
+  },
+  {
+    "index": 682,
+    "Module\rCode": "PC4267",
+    "Vacancy": 30,
+    "Demand": 2
+  },
+  {
+    "index": 683,
+    "Module\rCode": "LSM3212",
+    "Vacancy": 120,
+    "Demand": 43
+  },
+  {
+    "index": 684,
+    "Module\rCode": "LSM3215",
+    "Vacancy": 70,
+    "Demand": 29
+  },
+  {
+    "index": 685,
+    "Module\rCode": "LSM3217",
+    "Vacancy": 100,
+    "Demand": 28
+  },
+  {
+    "index": 686,
+    "Module\rCode": "LSM3235",
+    "Vacancy": 48,
+    "Demand": 10
+  },
+  {
+    "index": 687,
+    "Module\rCode": "LSM4213",
+    "Vacancy": 60,
+    "Demand": 14
+  },
+  {
+    "index": 688,
+    "Module\rCode": "LSM4232",
+    "Vacancy": 55,
+    "Demand": 26
+  },
+  {
+    "index": 689,
+    "Module\rCode": "LSM4243",
+    "Vacancy": 49,
+    "Demand": 81
+  },
+  {
+    "index": 690,
+    "Module\rCode": "DSA1101",
+    "Vacancy": 272,
+    "Demand": 37
+  },
+  {
+    "index": 691,
+    "Module\rCode": "DSA2101",
+    "Vacancy": 25,
+    "Demand": 2
+  },
+  {
+    "index": 692,
+    "Module\rCode": "DSA4211",
+    "Vacancy": 90,
+    "Demand": 115
+  },
+  {
+    "index": 693,
+    "Module\rCode": "DSA4262",
+    "Vacancy": 100,
+    "Demand": 69
+  },
+  {
+    "index": 694,
+    "Module\rCode": "ST1131",
+    "Vacancy": 222,
+    "Demand": 23
+  },
+  {
+    "index": 695,
+    "Module\rCode": "ST2131",
+    "Vacancy": 200,
+    "Demand": 152
+  },
+  {
+    "index": 696,
+    "Module\rCode": "ST2132",
+    "Vacancy": 295,
+    "Demand": 296
+  },
+  {
+    "index": 697,
+    "Module\rCode": "ST2137",
+    "Vacancy": 180,
+    "Demand": 37
+  },
+  {
+    "index": 698,
+    "Module\rCode": "ST2334",
+    "Vacancy": 610,
+    "Demand": 492
+  },
+  {
+    "index": 699,
+    "Module\rCode": "ST2334",
+    "Vacancy": 628,
+    "Demand": 184
+  },
+  {
+    "index": 700,
+    "Module\rCode": "ST3131",
+    "Vacancy": 215,
+    "Demand": 88
+  },
+  {
+    "index": 701,
+    "Module\rCode": "ST3239",
+    "Vacancy": 133,
+    "Demand": 27
+  },
+  {
+    "index": 702,
+    "Module\rCode": "ST3248",
+    "Vacancy": 180,
+    "Demand": 88
+  },
+  {
+    "index": 703,
+    "Module\rCode": "ST4231",
+    "Vacancy": 190,
+    "Demand": 70
+  },
+  {
+    "index": 704,
+    "Module\rCode": "ST4233",
+    "Vacancy": 83,
+    "Demand": 25
+  },
+  {
+    "index": 705,
+    "Module\rCode": "ST4245",
+    "Vacancy": 133,
+    "Demand": 45
+  },
+  {
+    "index": 706,
+    "Module\rCode": "ST4250",
+    "Vacancy": 133,
+    "Demand": 29
+  },
+  {
+    "index": 707,
+    "Module\rCode": "ST4253",
+    "Vacancy": 141,
+    "Demand": 59
+  },
+  {
+    "index": 708,
+    "Module\rCode": "CG2027",
+    "Vacancy": 32,
+    "Demand": 4
+  },
+  {
+    "index": 709,
+    "Module\rCode": "CG2028",
+    "Vacancy": 33,
+    "Demand": 4
+  },
+  {
+    "index": 710,
+    "Module\rCode": "CG3207",
+    "Vacancy": 100,
+    "Demand": 79
+  },
+  {
+    "index": 711,
+    "Module\rCode": "CG4002",
+    "Vacancy": 36,
+    "Demand": 36
+  },
+  {
+    "index": 712,
+    "Module\rCode": "CG4002",
+    "Vacancy": 45,
+    "Demand": 45
+  },
+  {
+    "index": 713,
+    "Module\rCode": "CLC1101",
+    "Vacancy": 60,
+    "Demand": 13
+  },
+  {
+    "index": 714,
+    "Module\rCode": "CLC2202",
+    "Vacancy": 45,
+    "Demand": 2
+  },
+  {
+    "index": 715,
+    "Module\rCode": "CLC2204",
+    "Vacancy": 60,
+    "Demand": 6
+  },
+  {
+    "index": 716,
+    "Module\rCode": "CLC3303",
+    "Vacancy": 60,
+    "Demand": 2
+  },
+  {
+    "index": 717,
+    "Module\rCode": "CLC3304A",
+    "Vacancy": 45,
+    "Demand": 1
+  },
+  {
+    "index": 718,
+    "Module\rCode": "CLC3307",
+    "Vacancy": 45,
+    "Demand": 1
+  },
+  {
+    "index": 719,
+    "Module\rCode": "ES1000",
+    "Vacancy": 5,
+    "Demand": 2
+  },
+  {
+    "index": 720,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 9
+  },
+  {
+    "index": 721,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 2
+  },
+  {
+    "index": 722,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 9
+  },
+  {
+    "index": 723,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 1
+  },
+  {
+    "index": 724,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 3
+  },
+  {
+    "index": 725,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 3
+  },
+  {
+    "index": 726,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 2
+  },
+  {
+    "index": 727,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 4
+  },
+  {
+    "index": 728,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 2
+  },
+  {
+    "index": 729,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 3
+  },
+  {
+    "index": 730,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 1
+  },
+  {
+    "index": 731,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 2
+  },
+  {
+    "index": 732,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 3
+  },
+  {
+    "index": 733,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 1
+  },
+  {
+    "index": 734,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 1
+  },
+  {
+    "index": 735,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 5
+  },
+  {
+    "index": 736,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 2
+  },
+  {
+    "index": 737,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 1
+  },
+  {
+    "index": 738,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 3
+  },
+  {
+    "index": 739,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 4
+  },
+  {
+    "index": 740,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 4
+  },
+  {
+    "index": 741,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 1
+  },
+  {
+    "index": 742,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 2
+  },
+  {
+    "index": 743,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 3
+  },
+  {
+    "index": 744,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 4
+  },
+  {
+    "index": 745,
+    "Module\rCode": "ES1103",
+    "Vacancy": 10,
+    "Demand": 4
+  },
+  {
+    "index": 746,
+    "Module\rCode": "ES2002",
+    "Vacancy": 18,
+    "Demand": 1
+  },
+  {
+    "index": 747,
+    "Module\rCode": "ES2002",
+    "Vacancy": 17,
+    "Demand": 4
+  },
+  {
+    "index": 748,
+    "Module\rCode": "ES2002",
+    "Vacancy": 17,
+    "Demand": 2
+  },
+  {
+    "index": 749,
+    "Module\rCode": "ES2002",
+    "Vacancy": 16,
+    "Demand": 2
+  },
+  {
+    "index": 750,
+    "Module\rCode": "ES2002",
+    "Vacancy": 17,
+    "Demand": 1
+  },
+  {
+    "index": 751,
+    "Module\rCode": "ES2002",
+    "Vacancy": 17,
+    "Demand": 1
+  },
+  {
+    "index": 752,
+    "Module\rCode": "ES2002",
+    "Vacancy": 18,
+    "Demand": 1
+  },
+  {
+    "index": 753,
+    "Module\rCode": "ES2002",
+    "Vacancy": 18,
+    "Demand": 1
+  },
+  {
+    "index": 754,
+    "Module\rCode": "ES2002",
+    "Vacancy": 17,
+    "Demand": 1
+  },
+  {
+    "index": 755,
+    "Module\rCode": "ES2002",
+    "Vacancy": 16,
+    "Demand": 2
+  },
+  {
+    "index": 756,
+    "Module\rCode": "ES2007D",
+    "Vacancy": 14,
+    "Demand": 7
+  },
+  {
+    "index": 757,
+    "Module\rCode": "ES2007D",
+    "Vacancy": 14,
+    "Demand": 17
+  },
+  {
+    "index": 758,
+    "Module\rCode": "ES2007D",
+    "Vacancy": 14,
+    "Demand": 24
+  },
+  {
+    "index": 759,
+    "Module\rCode": "ES2007D",
+    "Vacancy": 14,
+    "Demand": 21
+  },
+  {
+    "index": 760,
+    "Module\rCode": "ES2007D",
+    "Vacancy": 14,
+    "Demand": 20
+  },
+  {
+    "index": 761,
+    "Module\rCode": "ES2007D",
+    "Vacancy": 14,
+    "Demand": 7
+  },
+  {
+    "index": 762,
+    "Module\rCode": "ES2007D",
+    "Vacancy": 14,
+    "Demand": 2
+  },
+  {
+    "index": 763,
+    "Module\rCode": "ES2007D",
+    "Vacancy": 14,
+    "Demand": 3
+  },
+  {
+    "index": 764,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 8
+  },
+  {
+    "index": 765,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 8
+  },
+  {
+    "index": 766,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 22
+  },
+  {
+    "index": 767,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 20
+  },
+  {
+    "index": 768,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 20
+  },
+  {
+    "index": 769,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 18
+  },
+  {
+    "index": 770,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 19
+  },
+  {
+    "index": 771,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 19
+  },
+  {
+    "index": 772,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 5
+  },
+  {
+    "index": 773,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 16
+  },
+  {
+    "index": 774,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 19
+  },
+  {
+    "index": 775,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 14
+  },
+  {
+    "index": 776,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 13
+  },
+  {
+    "index": 777,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 20
+  },
+  {
+    "index": 778,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 19
+  },
+  {
+    "index": 779,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 21
+  },
+  {
+    "index": 780,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 20
+  },
+  {
+    "index": 781,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 9
+  },
+  {
+    "index": 782,
+    "Module\rCode": "ES2660",
+    "Vacancy": 14,
+    "Demand": 15
+  },
+  {
+    "index": 783,
+    "Module\rCode": "IS2101",
+    "Vacancy": 14,
+    "Demand": 20
+  },
+  {
+    "index": 784,
+    "Module\rCode": "IS2101",
+    "Vacancy": 14,
+    "Demand": 19
+  },
+  {
+    "index": 785,
+    "Module\rCode": "IS2101",
+    "Vacancy": 14,
+    "Demand": 18
+  },
+  {
+    "index": 786,
+    "Module\rCode": "IS2101",
+    "Vacancy": 14,
+    "Demand": 5
+  },
+  {
+    "index": 787,
+    "Module\rCode": "IS2101",
+    "Vacancy": 14,
+    "Demand": 2
+  },
+  {
+    "index": 788,
+    "Module\rCode": "IS2101",
+    "Vacancy": 14,
+    "Demand": 1
+  },
+  {
+    "index": 789,
+    "Module\rCode": "IS2101",
+    "Vacancy": 14,
+    "Demand": 18
+  },
+  {
+    "index": 790,
+    "Module\rCode": "IS2101",
+    "Vacancy": 14,
+    "Demand": 27
+  },
+  {
+    "index": 791,
+    "Module\rCode": "IS2101",
+    "Vacancy": 14,
+    "Demand": 12
+  },
+  {
+    "index": 792,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 18
+  },
+  {
+    "index": 793,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 20
+  },
+  {
+    "index": 794,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 32
+  },
+  {
+    "index": 795,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 26
+  },
+  {
+    "index": 796,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 16
+  },
+  {
+    "index": 797,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 17
+  },
+  {
+    "index": 798,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 18
+  },
+  {
+    "index": 799,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 13
+  },
+  {
+    "index": 800,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 14
+  },
+  {
+    "index": 801,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 31
+  },
+  {
+    "index": 802,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 26
+  },
+  {
+    "index": 803,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 18
+  },
+  {
+    "index": 804,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 19
+  },
+  {
+    "index": 805,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 28
+  },
+  {
+    "index": 806,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 14
+  },
+  {
+    "index": 807,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 27
+  },
+  {
+    "index": 808,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 12
+  },
+  {
+    "index": 809,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 17
+  },
+  {
+    "index": 810,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 16
+  },
+  {
+    "index": 811,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 15
+  },
+  {
+    "index": 812,
+    "Module\rCode": "SP1541",
+    "Vacancy": 14,
+    "Demand": 33
+  },
+  {
+    "index": 813,
+    "Module\rCode": "ACC1701X",
+    "Vacancy": 200,
+    "Demand": 99
+  },
+  {
+    "index": 814,
+    "Module\rCode": "ACC1701X",
+    "Vacancy": 235,
+    "Demand": 70
+  },
+  {
+    "index": 815,
+    "Module\rCode": "ACC2706",
+    "Vacancy": 16,
+    "Demand": 6
+  },
+  {
+    "index": 816,
+    "Module\rCode": "ACC2706",
+    "Vacancy": 13,
+    "Demand": 9
+  },
+  {
+    "index": 817,
+    "Module\rCode": "ACC2706",
+    "Vacancy": 33,
+    "Demand": 2
+  },
+  {
+    "index": 818,
+    "Module\rCode": "ACC2706",
+    "Vacancy": 25,
+    "Demand": 16
+  },
+  {
+    "index": 819,
+    "Module\rCode": "ACC2706",
+    "Vacancy": 29,
+    "Demand": 4
+  },
+  {
+    "index": 820,
+    "Module\rCode": "ACC2707",
+    "Vacancy": 13,
+    "Demand": 1
+  },
+  {
+    "index": 821,
+    "Module\rCode": "ACC2708",
+    "Vacancy": 19,
+    "Demand": 9
+  },
+  {
+    "index": 822,
+    "Module\rCode": "ACC2708",
+    "Vacancy": 23,
+    "Demand": 6
+  },
+  {
+    "index": 823,
+    "Module\rCode": "ACC2708",
+    "Vacancy": 22,
+    "Demand": 1
+  },
+  {
+    "index": 824,
+    "Module\rCode": "ACC2709",
+    "Vacancy": 2,
+    "Demand": 11
+  },
+  {
+    "index": 825,
+    "Module\rCode": "ACC2709",
+    "Vacancy": 3,
+    "Demand": 6
+  },
+  {
+    "index": 826,
+    "Module\rCode": "ACC2709",
+    "Vacancy": 10,
+    "Demand": 13
+  },
+  {
+    "index": 827,
+    "Module\rCode": "ACC3701",
+    "Vacancy": 7,
+    "Demand": 7
+  },
+  {
+    "index": 828,
+    "Module\rCode": "ACC3701",
+    "Vacancy": 7,
+    "Demand": 14
+  },
+  {
+    "index": 829,
+    "Module\rCode": "ACC3701",
+    "Vacancy": 13,
+    "Demand": 15
+  },
+  {
+    "index": 830,
+    "Module\rCode": "ACC3702",
+    "Vacancy": 18,
+    "Demand": 12
+  },
+  {
+    "index": 831,
+    "Module\rCode": "ACC3702",
+    "Vacancy": 22,
+    "Demand": 12
+  },
+  {
+    "index": 832,
+    "Module\rCode": "ACC3702",
+    "Vacancy": 19,
+    "Demand": 19
+  },
+  {
+    "index": 833,
+    "Module\rCode": "ACC3703",
+    "Vacancy": 13,
+    "Demand": 32
+  },
+  {
+    "index": 834,
+    "Module\rCode": "ACC3703",
+    "Vacancy": 8,
+    "Demand": 21
+  },
+  {
+    "index": 835,
+    "Module\rCode": "ACC3704",
+    "Vacancy": 17,
+    "Demand": 4
+  },
+  {
+    "index": 836,
+    "Module\rCode": "ACC3704",
+    "Vacancy": 6,
+    "Demand": 14
+  },
+  {
+    "index": 837,
+    "Module\rCode": "ACC3704",
+    "Vacancy": 14,
+    "Demand": 24
+  },
+  {
+    "index": 838,
+    "Module\rCode": "ACC3705",
+    "Vacancy": 16,
+    "Demand": 17
+  },
+  {
+    "index": 839,
+    "Module\rCode": "ACC3705",
+    "Vacancy": 17,
+    "Demand": 15
+  },
+  {
+    "index": 840,
+    "Module\rCode": "ACC3705",
+    "Vacancy": 21,
+    "Demand": 14
+  },
+  {
+    "index": 841,
+    "Module\rCode": "ACC3706",
+    "Vacancy": 10,
+    "Demand": 10
+  },
+  {
+    "index": 842,
+    "Module\rCode": "ACC3706",
+    "Vacancy": 7,
+    "Demand": 17
+  },
+  {
+    "index": 843,
+    "Module\rCode": "ACC3706",
+    "Vacancy": 10,
+    "Demand": 13
+  },
+  {
+    "index": 844,
+    "Module\rCode": "ACC3707",
+    "Vacancy": 29,
+    "Demand": 6
+  },
+  {
+    "index": 845,
+    "Module\rCode": "ACC3707",
+    "Vacancy": 28,
+    "Demand": 7
+  },
+  {
+    "index": 846,
+    "Module\rCode": "ACC3707",
+    "Vacancy": 22,
+    "Demand": 9
+  },
+  {
+    "index": 847,
+    "Module\rCode": "ACC4711",
+    "Vacancy": 30,
+    "Demand": 18
+  },
+  {
+    "index": 848,
+    "Module\rCode": "ACC4711",
+    "Vacancy": 30,
+    "Demand": 39
+  },
+  {
+    "index": 849,
+    "Module\rCode": "ACC4712",
+    "Vacancy": 45,
+    "Demand": 45
+  },
+  {
+    "index": 850,
+    "Module\rCode": "ACC4713",
+    "Vacancy": 45,
+    "Demand": 23
+  },
+  {
+    "index": 851,
+    "Module\rCode": "ACC4714",
+    "Vacancy": 45,
+    "Demand": 17
+  },
+  {
+    "index": 852,
+    "Module\rCode": "ACC4761A",
+    "Vacancy": 45,
+    "Demand": 17
+  },
+  {
+    "index": 853,
+    "Module\rCode": "ACC4761H",
+    "Vacancy": 45,
+    "Demand": 23
+  },
+  {
+    "index": 854,
+    "Module\rCode": "DAO1704X",
+    "Vacancy": 100,
+    "Demand": 131
+  },
+  {
+    "index": 855,
+    "Module\rCode": "DAO2702",
+    "Vacancy": 173,
+    "Demand": 140
+  },
+  {
+    "index": 856,
+    "Module\rCode": "DAO2702",
+    "Vacancy": 172,
+    "Demand": 101
+  },
+  {
+    "index": 857,
+    "Module\rCode": "DAO2703",
+    "Vacancy": 169,
+    "Demand": 165
+  },
+  {
+    "index": 858,
+    "Module\rCode": "DAO2703",
+    "Vacancy": 169,
+    "Demand": 145
+  },
+  {
+    "index": 859,
+    "Module\rCode": "DBA3701",
+    "Vacancy": 59,
+    "Demand": 51
+  },
+  {
+    "index": 860,
+    "Module\rCode": "DBA3702",
+    "Vacancy": 37,
+    "Demand": 36
+  },
+  {
+    "index": 861,
+    "Module\rCode": "DBA3702",
+    "Vacancy": 50,
+    "Demand": 41
+  },
+  {
+    "index": 862,
+    "Module\rCode": "DBA3711",
+    "Vacancy": 29,
+    "Demand": 27
+  },
+  {
+    "index": 863,
+    "Module\rCode": "DBA3803",
+    "Vacancy": 42,
+    "Demand": 52
+  },
+  {
+    "index": 864,
+    "Module\rCode": "DBA3803",
+    "Vacancy": 45,
+    "Demand": 28
+  },
+  {
+    "index": 865,
+    "Module\rCode": "DBA4712",
+    "Vacancy": 60,
+    "Demand": 17
+  },
+  {
+    "index": 866,
+    "Module\rCode": "DBA4761",
+    "Vacancy": 60,
+    "Demand": 13
+  },
+  {
+    "index": 867,
+    "Module\rCode": "DBA4811",
+    "Vacancy": 59,
+    "Demand": 43
+  },
+  {
+    "index": 868,
+    "Module\rCode": "DOS3701",
+    "Vacancy": 62,
+    "Demand": 54
+  },
+  {
+    "index": 869,
+    "Module\rCode": "DOS3702",
+    "Vacancy": 60,
+    "Demand": 14
+  },
+  {
+    "index": 870,
+    "Module\rCode": "DOS3703",
+    "Vacancy": 29,
+    "Demand": 35
+  },
+  {
+    "index": 871,
+    "Module\rCode": "DOS3703",
+    "Vacancy": 28,
+    "Demand": 42
+  },
+  {
+    "index": 872,
+    "Module\rCode": "DOS3704",
+    "Vacancy": 32,
+    "Demand": 49
+  },
+  {
+    "index": 873,
+    "Module\rCode": "DOS3704",
+    "Vacancy": 60,
+    "Demand": 27
+  },
+  {
+    "index": 874,
+    "Module\rCode": "DOS3712",
+    "Vacancy": 69,
+    "Demand": 34
+  },
+  {
+    "index": 875,
+    "Module\rCode": "DOS3714",
+    "Vacancy": 59,
+    "Demand": 41
+  },
+  {
+    "index": 876,
+    "Module\rCode": "DOS4712",
+    "Vacancy": 59,
+    "Demand": 61
+  },
+  {
+    "index": 877,
+    "Module\rCode": "DOS4811",
+    "Vacancy": 33,
+    "Demand": 40
+  },
+  {
+    "index": 878,
+    "Module\rCode": "DOS4811",
+    "Vacancy": 32,
+    "Demand": 53
+  },
+  {
+    "index": 879,
+    "Module\rCode": "FIN2704",
+    "Vacancy": 44,
+    "Demand": 87
+  },
+  {
+    "index": 880,
+    "Module\rCode": "FIN2704",
+    "Vacancy": 45,
+    "Demand": 89
+  },
+  {
+    "index": 881,
+    "Module\rCode": "FIN2704",
+    "Vacancy": 45,
+    "Demand": 80
+  },
+  {
+    "index": 882,
+    "Module\rCode": "FIN2704",
+    "Vacancy": 51,
+    "Demand": 101
+  },
+  {
+    "index": 883,
+    "Module\rCode": "FIN2704X",
+    "Vacancy": 27,
+    "Demand": 33
+  },
+  {
+    "index": 884,
+    "Module\rCode": "FIN2704X",
+    "Vacancy": 30,
+    "Demand": 37
+  },
+  {
+    "index": 885,
+    "Module\rCode": "FIN2704X",
+    "Vacancy": 50,
+    "Demand": 39
+  },
+  {
+    "index": 886,
+    "Module\rCode": "FIN2704X",
+    "Vacancy": 50,
+    "Demand": 39
+  },
+  {
+    "index": 887,
+    "Module\rCode": "FIN3701A",
+    "Vacancy": 37,
+    "Demand": 42
+  },
+  {
+    "index": 888,
+    "Module\rCode": "FIN3701A",
+    "Vacancy": 40,
+    "Demand": 38
+  },
+  {
+    "index": 889,
+    "Module\rCode": "FIN3701A",
+    "Vacancy": 60,
+    "Demand": 36
+  },
+  {
+    "index": 890,
+    "Module\rCode": "FIN3701B",
+    "Vacancy": 40,
+    "Demand": 18
+  },
+  {
+    "index": 891,
+    "Module\rCode": "FIN3701B",
+    "Vacancy": 40,
+    "Demand": 22
+  },
+  {
+    "index": 892,
+    "Module\rCode": "FIN3702A",
+    "Vacancy": 31,
+    "Demand": 50
+  },
+  {
+    "index": 893,
+    "Module\rCode": "FIN3702A",
+    "Vacancy": 34,
+    "Demand": 43
+  },
+  {
+    "index": 894,
+    "Module\rCode": "FIN3702A",
+    "Vacancy": 60,
+    "Demand": 83
+  },
+  {
+    "index": 895,
+    "Module\rCode": "FIN3702B",
+    "Vacancy": 34,
+    "Demand": 28
+  },
+  {
+    "index": 896,
+    "Module\rCode": "FIN3702B",
+    "Vacancy": 35,
+    "Demand": 28
+  },
+  {
+    "index": 897,
+    "Module\rCode": "FIN3703A",
+    "Vacancy": 27,
+    "Demand": 40
+  },
+  {
+    "index": 898,
+    "Module\rCode": "FIN3703A",
+    "Vacancy": 30,
+    "Demand": 45
+  },
+  {
+    "index": 899,
+    "Module\rCode": "FIN3703A",
+    "Vacancy": 51,
+    "Demand": 54
+  },
+  {
+    "index": 900,
+    "Module\rCode": "FIN3703A",
+    "Vacancy": 48,
+    "Demand": 22
+  },
+  {
+    "index": 901,
+    "Module\rCode": "FIN3703A",
+    "Vacancy": 60,
+    "Demand": 65
+  },
+  {
+    "index": 902,
+    "Module\rCode": "FIN3703A",
+    "Vacancy": 60,
+    "Demand": 18
+  },
+  {
+    "index": 903,
+    "Module\rCode": "FIN3713",
+    "Vacancy": 60,
+    "Demand": 38
+  },
+  {
+    "index": 904,
+    "Module\rCode": "FIN3714",
+    "Vacancy": 60,
+    "Demand": 19
+  },
+  {
+    "index": 905,
+    "Module\rCode": "FIN3715",
+    "Vacancy": 0,
+    "Demand": 18
+  },
+  {
+    "index": 906,
+    "Module\rCode": "FIN3715",
+    "Vacancy": 60,
+    "Demand": 21
+  },
+  {
+    "index": 907,
+    "Module\rCode": "FIN3716",
+    "Vacancy": 50,
+    "Demand": 35
+  },
+  {
+    "index": 908,
+    "Module\rCode": "FIN3718",
+    "Vacancy": 60,
+    "Demand": 25
+  },
+  {
+    "index": 909,
+    "Module\rCode": "FIN3719A",
+    "Vacancy": 60,
+    "Demand": 73
+  },
+  {
+    "index": 910,
+    "Module\rCode": "FIN3719A",
+    "Vacancy": 60,
+    "Demand": 57
+  },
+  {
+    "index": 911,
+    "Module\rCode": "FIN3720",
+    "Vacancy": 30,
+    "Demand": 21
+  },
+  {
+    "index": 912,
+    "Module\rCode": "FIN3720",
+    "Vacancy": 30,
+    "Demand": 25
+  },
+  {
+    "index": 913,
+    "Module\rCode": "FIN3721",
+    "Vacancy": 50,
+    "Demand": 40
+  },
+  {
+    "index": 914,
+    "Module\rCode": "FIN3761A",
+    "Vacancy": 60,
+    "Demand": 33
+  },
+  {
+    "index": 915,
+    "Module\rCode": "FIN4714",
+    "Vacancy": 60,
+    "Demand": 42
+  },
+  {
+    "index": 916,
+    "Module\rCode": "FIN4715",
+    "Vacancy": 60,
+    "Demand": 66
+  },
+  {
+    "index": 917,
+    "Module\rCode": "FIN4715",
+    "Vacancy": 60,
+    "Demand": 71
+  },
+  {
+    "index": 918,
+    "Module\rCode": "FIN4717",
+    "Vacancy": 60,
+    "Demand": 27
+  },
+  {
+    "index": 919,
+    "Module\rCode": "FIN4718",
+    "Vacancy": 60,
+    "Demand": 68
+  },
+  {
+    "index": 920,
+    "Module\rCode": "FIN4720",
+    "Vacancy": 60,
+    "Demand": 36
+  },
+  {
+    "index": 921,
+    "Module\rCode": "FIN4721",
+    "Vacancy": 60,
+    "Demand": 48
+  },
+  {
+    "index": 922,
+    "Module\rCode": "FIN4721",
+    "Vacancy": 60,
+    "Demand": 36
+  },
+  {
+    "index": 923,
+    "Module\rCode": "FIN4761C",
+    "Vacancy": 51,
+    "Demand": 24
+  },
+  {
+    "index": 924,
+    "Module\rCode": "FIN4761D",
+    "Vacancy": 60,
+    "Demand": 34
+  },
+  {
+    "index": 925,
+    "Module\rCode": "MNO1706X",
+    "Vacancy": 60,
+    "Demand": 77
+  },
+  {
+    "index": 926,
+    "Module\rCode": "MNO2705A",
+    "Vacancy": 13,
+    "Demand": 42
+  },
+  {
+    "index": 927,
+    "Module\rCode": "MNO2705A",
+    "Vacancy": 12,
+    "Demand": 25
+  },
+  {
+    "index": 928,
+    "Module\rCode": "MNO2705B",
+    "Vacancy": 25,
+    "Demand": 14
+  },
+  {
+    "index": 929,
+    "Module\rCode": "MNO2705B",
+    "Vacancy": 23,
+    "Demand": 23
+  },
+  {
+    "index": 930,
+    "Module\rCode": "MNO2705C",
+    "Vacancy": 17,
+    "Demand": 27
+  },
+  {
+    "index": 931,
+    "Module\rCode": "MNO2705C",
+    "Vacancy": 16,
+    "Demand": 33
+  },
+  {
+    "index": 932,
+    "Module\rCode": "MNO2705D",
+    "Vacancy": 16,
+    "Demand": 42
+  },
+  {
+    "index": 933,
+    "Module\rCode": "MNO2705D",
+    "Vacancy": 14,
+    "Demand": 31
+  },
+  {
+    "index": 934,
+    "Module\rCode": "MNO2705D",
+    "Vacancy": 7,
+    "Demand": 39
+  },
+  {
+    "index": 935,
+    "Module\rCode": "MNO2705E",
+    "Vacancy": 17,
+    "Demand": 31
+  },
+  {
+    "index": 936,
+    "Module\rCode": "MNO2705F",
+    "Vacancy": 9,
+    "Demand": 18
+  },
+  {
+    "index": 937,
+    "Module\rCode": "MNO2705F",
+    "Vacancy": 11,
+    "Demand": 22
+  },
+  {
+    "index": 938,
+    "Module\rCode": "MNO2706",
+    "Vacancy": 27,
+    "Demand": 2
+  },
+  {
+    "index": 939,
+    "Module\rCode": "MNO2706",
+    "Vacancy": 29,
+    "Demand": 1
+  },
+  {
+    "index": 940,
+    "Module\rCode": "MNO2706",
+    "Vacancy": 29,
+    "Demand": 3
+  },
+  {
+    "index": 941,
+    "Module\rCode": "MNO3701",
+    "Vacancy": 29,
+    "Demand": 14
+  },
+  {
+    "index": 942,
+    "Module\rCode": "MNO3701",
+    "Vacancy": 32,
+    "Demand": 12
+  },
+  {
+    "index": 943,
+    "Module\rCode": "MNO3702",
+    "Vacancy": 24,
+    "Demand": 16
+  },
+  {
+    "index": 944,
+    "Module\rCode": "MNO3702",
+    "Vacancy": 27,
+    "Demand": 16
+  },
+  {
+    "index": 945,
+    "Module\rCode": "MNO3703",
+    "Vacancy": 24,
+    "Demand": 6
+  },
+  {
+    "index": 946,
+    "Module\rCode": "MNO3703",
+    "Vacancy": 27,
+    "Demand": 18
+  },
+  {
+    "index": 947,
+    "Module\rCode": "MNO3713",
+    "Vacancy": 50,
+    "Demand": 18
+  },
+  {
+    "index": 948,
+    "Module\rCode": "MNO3716",
+    "Vacancy": 50,
+    "Demand": 15
+  },
+  {
+    "index": 949,
+    "Module\rCode": "MNO3761C",
+    "Vacancy": 48,
+    "Demand": 17
+  },
+  {
+    "index": 950,
+    "Module\rCode": "MNO3811",
+    "Vacancy": 50,
+    "Demand": 13
+  },
+  {
+    "index": 951,
+    "Module\rCode": "MNO4711",
+    "Vacancy": 50,
+    "Demand": 46
+  },
+  {
+    "index": 952,
+    "Module\rCode": "MNO4761D",
+    "Vacancy": 50,
+    "Demand": 21
+  },
+  {
+    "index": 953,
+    "Module\rCode": "MNO4861C",
+    "Vacancy": 50,
+    "Demand": 23
+  },
+  {
+    "index": 954,
+    "Module\rCode": "MKT1705X",
+    "Vacancy": 250,
+    "Demand": 106
+  },
+  {
+    "index": 955,
+    "Module\rCode": "MKT3701A",
+    "Vacancy": 32,
+    "Demand": 23
+  },
+  {
+    "index": 956,
+    "Module\rCode": "MKT3701A",
+    "Vacancy": 34,
+    "Demand": 34
+  },
+  {
+    "index": 957,
+    "Module\rCode": "MKT3701A",
+    "Vacancy": 40,
+    "Demand": 19
+  },
+  {
+    "index": 958,
+    "Module\rCode": "MKT3701B",
+    "Vacancy": 40,
+    "Demand": 23
+  },
+  {
+    "index": 959,
+    "Module\rCode": "MKT3702A",
+    "Vacancy": 30,
+    "Demand": 28
+  },
+  {
+    "index": 960,
+    "Module\rCode": "MKT3702A",
+    "Vacancy": 33,
+    "Demand": 30
+  },
+  {
+    "index": 961,
+    "Module\rCode": "MKT3702B",
+    "Vacancy": 30,
+    "Demand": 17
+  },
+  {
+    "index": 962,
+    "Module\rCode": "MKT3702B",
+    "Vacancy": 54,
+    "Demand": 10
+  },
+  {
+    "index": 963,
+    "Module\rCode": "MKT3711",
+    "Vacancy": 45,
+    "Demand": 25
+  },
+  {
+    "index": 964,
+    "Module\rCode": "MKT3711",
+    "Vacancy": 45,
+    "Demand": 21
+  },
+  {
+    "index": 965,
+    "Module\rCode": "MKT3714A",
+    "Vacancy": 45,
+    "Demand": 31
+  },
+  {
+    "index": 966,
+    "Module\rCode": "MKT3714A",
+    "Vacancy": 45,
+    "Demand": 42
+  },
+  {
+    "index": 967,
+    "Module\rCode": "MKT3714A",
+    "Vacancy": 45,
+    "Demand": 36
+  },
+  {
+    "index": 968,
+    "Module\rCode": "MKT3714B",
+    "Vacancy": 50,
+    "Demand": 13
+  },
+  {
+    "index": 969,
+    "Module\rCode": "MKT3715",
+    "Vacancy": 50,
+    "Demand": 32
+  },
+  {
+    "index": 970,
+    "Module\rCode": "MKT3717",
+    "Vacancy": 45,
+    "Demand": 32
+  },
+  {
+    "index": 971,
+    "Module\rCode": "MKT3717",
+    "Vacancy": 45,
+    "Demand": 14
+  },
+  {
+    "index": 972,
+    "Module\rCode": "MKT3718",
+    "Vacancy": 45,
+    "Demand": 45
+  },
+  {
+    "index": 973,
+    "Module\rCode": "MKT3718",
+    "Vacancy": 45,
+    "Demand": 29
+  },
+  {
+    "index": 974,
+    "Module\rCode": "MKT3722",
+    "Vacancy": 50,
+    "Demand": 17
+  },
+  {
+    "index": 975,
+    "Module\rCode": "MKT3761D",
+    "Vacancy": 50,
+    "Demand": 29
+  },
+  {
+    "index": 976,
+    "Module\rCode": "MKT4719",
+    "Vacancy": 50,
+    "Demand": 56
+  },
+  {
+    "index": 977,
+    "Module\rCode": "MKT4720",
+    "Vacancy": 45,
+    "Demand": 57
+  },
+  {
+    "index": 978,
+    "Module\rCode": "MKT4720",
+    "Vacancy": 45,
+    "Demand": 52
+  },
+  {
+    "index": 979,
+    "Module\rCode": "MKT4721",
+    "Vacancy": 0,
+    "Demand": 46
+  },
+  {
+    "index": 980,
+    "Module\rCode": "MKT4722",
+    "Vacancy": 50,
+    "Demand": 19
+  },
+  {
+    "index": 981,
+    "Module\rCode": "MKT4761F",
+    "Vacancy": 50,
+    "Demand": 89
+  },
+  {
+    "index": 982,
+    "Module\rCode": "MKT4811",
+    "Vacancy": 45,
+    "Demand": 23
+  },
+  {
+    "index": 983,
+    "Module\rCode": "MKT4811",
+    "Vacancy": 55,
+    "Demand": 38
+  },
+  {
+    "index": 984,
+    "Module\rCode": "MKT4812",
+    "Vacancy": 50,
+    "Demand": 85
+  },
+  {
+    "index": 985,
+    "Module\rCode": "RE1701",
+    "Vacancy": 92,
+    "Demand": 2
+  },
+  {
+    "index": 986,
+    "Module\rCode": "RE1705",
+    "Vacancy": 125,
+    "Demand": 2
+  },
+  {
+    "index": 987,
+    "Module\rCode": "RE2701",
+    "Vacancy": 195,
+    "Demand": 119
+  },
+  {
+    "index": 988,
+    "Module\rCode": "RE2702",
+    "Vacancy": 95,
+    "Demand": 65
+  },
+  {
+    "index": 989,
+    "Module\rCode": "RE2705",
+    "Vacancy": 95,
+    "Demand": 74
+  },
+  {
+    "index": 990,
+    "Module\rCode": "RE2707",
+    "Vacancy": 95,
+    "Demand": 43
+  },
+  {
+    "index": 991,
+    "Module\rCode": "RE2708",
+    "Vacancy": 160,
+    "Demand": 112
+  },
+  {
+    "index": 992,
+    "Module\rCode": "RE3701",
+    "Vacancy": 115,
+    "Demand": 99
+  },
+  {
+    "index": 993,
+    "Module\rCode": "RE3702",
+    "Vacancy": 170,
+    "Demand": 132
+  },
+  {
+    "index": 994,
+    "Module\rCode": "RE3703",
+    "Vacancy": 93,
+    "Demand": 83
+  },
+  {
+    "index": 995,
+    "Module\rCode": "RE3704",
+    "Vacancy": 100,
+    "Demand": 78
+  },
+  {
+    "index": 996,
+    "Module\rCode": "RE3803",
+    "Vacancy": 93,
+    "Demand": 120
+  },
+  {
+    "index": 997,
+    "Module\rCode": "RE3807",
+    "Vacancy": 45,
+    "Demand": 54
+  },
+  {
+    "index": 998,
+    "Module\rCode": "RE3901",
+    "Vacancy": 45,
+    "Demand": 69
+  },
+  {
+    "index": 999,
+    "Module\rCode": "RE4701",
+    "Vacancy": 165,
+    "Demand": 143
+  },
+  {
+    "index": 1000,
+    "Module\rCode": "RE4702",
+    "Vacancy": 165,
+    "Demand": 133
+  },
+  {
+    "index": 1001,
+    "Module\rCode": "RE4803",
+    "Vacancy": 48,
+    "Demand": 74
+  },
+  {
+    "index": 1002,
+    "Module\rCode": "RE4804",
+    "Vacancy": 48,
+    "Demand": 30
+  },
+  {
+    "index": 1003,
+    "Module\rCode": "BSE3701",
+    "Vacancy": 20,
+    "Demand": 27
+  },
+  {
+    "index": 1004,
+    "Module\rCode": "BSE3702",
+    "Vacancy": 17,
+    "Demand": 32
+  },
+  {
+    "index": 1005,
+    "Module\rCode": "BSE3703",
+    "Vacancy": 27,
+    "Demand": 29
+  },
+  {
+    "index": 1006,
+    "Module\rCode": "BSE3761",
+    "Vacancy": 50,
+    "Demand": 2
+  },
+  {
+    "index": 1007,
+    "Module\rCode": "BSE4711",
+    "Vacancy": 20,
+    "Demand": 2
+  },
+  {
+    "index": 1008,
+    "Module\rCode": "BSN3701",
+    "Vacancy": 17,
+    "Demand": 22
+  },
+  {
+    "index": 1009,
+    "Module\rCode": "BSN3702",
+    "Vacancy": 27,
+    "Demand": 20
+  },
+  {
+    "index": 1010,
+    "Module\rCode": "BSN3703",
+    "Vacancy": 20,
+    "Demand": 14
+  },
+  {
+    "index": 1011,
+    "Module\rCode": "BSN3714",
+    "Vacancy": 50,
+    "Demand": 11
+  },
+  {
+    "index": 1012,
+    "Module\rCode": "BSN3717",
+    "Vacancy": 50,
+    "Demand": 11
+  },
+  {
+    "index": 1013,
+    "Module\rCode": "BSN4811",
+    "Vacancy": 10,
+    "Demand": 11
+  },
+  {
+    "index": 1014,
+    "Module\rCode": "BSP1702X",
+    "Vacancy": 30,
+    "Demand": 26
+  },
+  {
+    "index": 1015,
+    "Module\rCode": "BSP2701",
+    "Vacancy": 65,
+    "Demand": 140
+  },
+  {
+    "index": 1016,
+    "Module\rCode": "BSP2701",
+    "Vacancy": 77,
+    "Demand": 118
+  },
+  {
+    "index": 1017,
+    "Module\rCode": "BSP2701",
+    "Vacancy": 74,
+    "Demand": 99
+  },
+  {
+    "index": 1018,
+    "Module\rCode": "BSP3701A",
+    "Vacancy": 12,
+    "Demand": 21
+  },
+  {
+    "index": 1019,
+    "Module\rCode": "BSP3701A",
+    "Vacancy": 20,
+    "Demand": 3
+  },
+  {
+    "index": 1020,
+    "Module\rCode": "BSP3701A",
+    "Vacancy": 37,
+    "Demand": 27
+  },
+  {
+    "index": 1021,
+    "Module\rCode": "BSP3701B",
+    "Vacancy": 17,
+    "Demand": 14
+  },
+  {
+    "index": 1022,
+    "Module\rCode": "BSP3701B",
+    "Vacancy": 18,
+    "Demand": 13
+  },
+  {
+    "index": 1023,
+    "Module\rCode": "BSP3701B",
+    "Vacancy": 18,
+    "Demand": 6
+  },
+  {
+    "index": 1024,
+    "Module\rCode": "BSP3701C",
+    "Vacancy": 16,
+    "Demand": 13
+  },
+  {
+    "index": 1025,
+    "Module\rCode": "BSP3701C",
+    "Vacancy": 20,
+    "Demand": 3
+  },
+  {
+    "index": 1026,
+    "Module\rCode": "BSP3701D",
+    "Vacancy": 32,
+    "Demand": 16
+  },
+  {
+    "index": 1027,
+    "Module\rCode": "BSP3701D",
+    "Vacancy": 34,
+    "Demand": 16
+  },
+  {
+    "index": 1028,
+    "Module\rCode": "CS1010",
+    "Vacancy": 53,
+    "Demand": 6
+  },
+  {
+    "index": 1029,
+    "Module\rCode": "CS1010E",
+    "Vacancy": 380,
+    "Demand": 9
+  },
+  {
+    "index": 1030,
+    "Module\rCode": "CS1010E",
+    "Vacancy": 400,
+    "Demand": 8
+  },
+  {
+    "index": 1031,
+    "Module\rCode": "CS1010S",
+    "Vacancy": 50,
+    "Demand": 86
+  },
+  {
+    "index": 1032,
+    "Module\rCode": "CS1101S",
+    "Vacancy": 50,
+    "Demand": 3
+  },
+  {
+    "index": 1033,
+    "Module\rCode": "CS1231",
+    "Vacancy": 226,
+    "Demand": 56
+  },
+  {
+    "index": 1034,
+    "Module\rCode": "CS1231S",
+    "Vacancy": 280,
+    "Demand": 23
+  },
+  {
+    "index": 1035,
+    "Module\rCode": "CS2030",
+    "Vacancy": 151,
+    "Demand": 94
+  },
+  {
+    "index": 1036,
+    "Module\rCode": "CS2030S",
+    "Vacancy": 150,
+    "Demand": 44
+  },
+  {
+    "index": 1037,
+    "Module\rCode": "CS2040",
+    "Vacancy": 71,
+    "Demand": 516
+  },
+  {
+    "index": 1038,
+    "Module\rCode": "CS2040C",
+    "Vacancy": 43,
+    "Demand": 10
+  },
+  {
+    "index": 1039,
+    "Module\rCode": "CS2040S",
+    "Vacancy": 180,
+    "Demand": 123
+  },
+  {
+    "index": 1040,
+    "Module\rCode": "CS2100",
+    "Vacancy": 322,
+    "Demand": 586
+  },
+  {
+    "index": 1041,
+    "Module\rCode": "CS2102",
+    "Vacancy": 340,
+    "Demand": 439
+  },
+  {
+    "index": 1042,
+    "Module\rCode": "CS2103",
+    "Vacancy": 100,
+    "Demand": 57
+  },
+  {
+    "index": 1043,
+    "Module\rCode": "CS2103T",
+    "Vacancy": 20,
+    "Demand": 44
+  },
+  {
+    "index": 1044,
+    "Module\rCode": "CS2103T",
+    "Vacancy": 20,
+    "Demand": 51
+  },
+  {
+    "index": 1045,
+    "Module\rCode": "CS2103T",
+    "Vacancy": 20,
+    "Demand": 46
+  },
+  {
+    "index": 1046,
+    "Module\rCode": "CS2103T",
+    "Vacancy": 20,
+    "Demand": 43
+  },
+  {
+    "index": 1047,
+    "Module\rCode": "CS2103T",
+    "Vacancy": 20,
+    "Demand": 43
+  },
+  {
+    "index": 1048,
+    "Module\rCode": "CS2103T",
+    "Vacancy": 20,
+    "Demand": 47
+  },
+  {
+    "index": 1049,
+    "Module\rCode": "CS2103T",
+    "Vacancy": 20,
+    "Demand": 17
+  },
+  {
+    "index": 1050,
+    "Module\rCode": "CS2103T",
+    "Vacancy": 20,
+    "Demand": 41
+  },
+  {
+    "index": 1051,
+    "Module\rCode": "CS2103T",
+    "Vacancy": 20,
+    "Demand": 55
+  },
+  {
+    "index": 1052,
+    "Module\rCode": "CS2103T",
+    "Vacancy": 20,
+    "Demand": 33
+  },
+  {
+    "index": 1053,
+    "Module\rCode": "CS2103T",
+    "Vacancy": 20,
+    "Demand": 42
+  },
+  {
+    "index": 1054,
+    "Module\rCode": "CS2103T",
+    "Vacancy": 20,
+    "Demand": 15
+  },
+  {
+    "index": 1055,
+    "Module\rCode": "CS2103T",
+    "Vacancy": 20,
+    "Demand": 48
+  },
+  {
+    "index": 1056,
+    "Module\rCode": "CS2104",
+    "Vacancy": 60,
+    "Demand": 19
+  },
+  {
+    "index": 1057,
+    "Module\rCode": "CS2105",
+    "Vacancy": 0,
+    "Demand": 75
+  },
+  {
+    "index": 1058,
+    "Module\rCode": "CS2105",
+    "Vacancy": 340,
+    "Demand": 231
+  },
+  {
+    "index": 1059,
+    "Module\rCode": "CS2106",
+    "Vacancy": 320,
+    "Demand": 270
+  },
+  {
+    "index": 1060,
+    "Module\rCode": "CS2107",
+    "Vacancy": 150,
+    "Demand": 126
+  },
+  {
+    "index": 1061,
+    "Module\rCode": "CS2109S",
+    "Vacancy": 280,
+    "Demand": 172
+  },
+  {
+    "index": 1062,
+    "Module\rCode": "CS2113",
+    "Vacancy": 64,
+    "Demand": 4
+  },
+  {
+    "index": 1063,
+    "Module\rCode": "CS2113T",
+    "Vacancy": 17,
+    "Demand": 2
+  },
+  {
+    "index": 1064,
+    "Module\rCode": "CS2113T",
+    "Vacancy": 18,
+    "Demand": 1
+  },
+  {
+    "index": 1065,
+    "Module\rCode": "CS2220",
+    "Vacancy": 10,
+    "Demand": 1
+  },
+  {
+    "index": 1066,
+    "Module\rCode": "CS2309",
+    "Vacancy": 25,
+    "Demand": 23
+  },
+  {
+    "index": 1067,
+    "Module\rCode": "CS3103",
+    "Vacancy": 120,
+    "Demand": 177
+  },
+  {
+    "index": 1068,
+    "Module\rCode": "CS3203",
+    "Vacancy": 55,
+    "Demand": 115
+  },
+  {
+    "index": 1069,
+    "Module\rCode": "CS3203",
+    "Vacancy": 55,
+    "Demand": 29
+  },
+  {
+    "index": 1070,
+    "Module\rCode": "CS3203",
+    "Vacancy": 55,
+    "Demand": 68
+  },
+  {
+    "index": 1071,
+    "Module\rCode": "CS3203",
+    "Vacancy": 55,
+    "Demand": 66
+  },
+  {
+    "index": 1072,
+    "Module\rCode": "CS3210",
+    "Vacancy": 64,
+    "Demand": 128
+  },
+  {
+    "index": 1073,
+    "Module\rCode": "CS3219",
+    "Vacancy": 34,
+    "Demand": 316
+  },
+  {
+    "index": 1074,
+    "Module\rCode": "CS3230",
+    "Vacancy": 105,
+    "Demand": 197
+  },
+  {
+    "index": 1075,
+    "Module\rCode": "CS3230",
+    "Vacancy": 340,
+    "Demand": 191
+  },
+  {
+    "index": 1076,
+    "Module\rCode": "CS3231",
+    "Vacancy": 45,
+    "Demand": 31
+  },
+  {
+    "index": 1077,
+    "Module\rCode": "CS3235",
+    "Vacancy": 120,
+    "Demand": 95
+  },
+  {
+    "index": 1078,
+    "Module\rCode": "CS3237",
+    "Vacancy": 120,
+    "Demand": 63
+  },
+  {
+    "index": 1079,
+    "Module\rCode": "CS3240",
+    "Vacancy": 130,
+    "Demand": 67
+  },
+  {
+    "index": 1080,
+    "Module\rCode": "CS3241",
+    "Vacancy": 160,
+    "Demand": 170
+  },
+  {
+    "index": 1081,
+    "Module\rCode": "CS3243",
+    "Vacancy": 180,
+    "Demand": 132
+  },
+  {
+    "index": 1082,
+    "Module\rCode": "CS3244",
+    "Vacancy": 290,
+    "Demand": 227
+  },
+  {
+    "index": 1083,
+    "Module\rCode": "CS4211",
+    "Vacancy": 15,
+    "Demand": 118
+  },
+  {
+    "index": 1084,
+    "Module\rCode": "CS4212",
+    "Vacancy": 25,
+    "Demand": 19
+  },
+  {
+    "index": 1085,
+    "Module\rCode": "CS4223",
+    "Vacancy": 45,
+    "Demand": 29
+  },
+  {
+    "index": 1086,
+    "Module\rCode": "CS4224",
+    "Vacancy": 80,
+    "Demand": 41
+  },
+  {
+    "index": 1087,
+    "Module\rCode": "CS4225",
+    "Vacancy": 75,
+    "Demand": 261
+  },
+  {
+    "index": 1088,
+    "Module\rCode": "CS4226",
+    "Vacancy": 150,
+    "Demand": 280
+  },
+  {
+    "index": 1089,
+    "Module\rCode": "CS4234",
+    "Vacancy": 70,
+    "Demand": 38
+  },
+  {
+    "index": 1090,
+    "Module\rCode": "CS4236",
+    "Vacancy": 80,
+    "Demand": 54
+  },
+  {
+    "index": 1091,
+    "Module\rCode": "CS4239",
+    "Vacancy": 85,
+    "Demand": 92
+  },
+  {
+    "index": 1092,
+    "Module\rCode": "CS4243",
+    "Vacancy": 150,
+    "Demand": 118
+  },
+  {
+    "index": 1093,
+    "Module\rCode": "CS4246",
+    "Vacancy": 31,
+    "Demand": 31
+  },
+  {
+    "index": 1094,
+    "Module\rCode": "CS4246",
+    "Vacancy": 35,
+    "Demand": 20
+  },
+  {
+    "index": 1095,
+    "Module\rCode": "CS4248",
+    "Vacancy": 90,
+    "Demand": 89
+  },
+  {
+    "index": 1096,
+    "Module\rCode": "CS4261",
+    "Vacancy": 70,
+    "Demand": 62
+  },
+  {
+    "index": 1097,
+    "Module\rCode": "CS4347",
+    "Vacancy": 60,
+    "Demand": 15
+  },
+  {
+    "index": 1098,
+    "Module\rCode": "CS4350",
+    "Vacancy": 80,
+    "Demand": 31
+  },
+  {
+    "index": 1099,
+    "Module\rCode": "CS5219",
+    "Vacancy": 2,
+    "Demand": 1
+  },
+  {
+    "index": 1100,
+    "Module\rCode": "CS5231",
+    "Vacancy": 0,
+    "Demand": 20
+  },
+  {
+    "index": 1101,
+    "Module\rCode": "CS5234",
+    "Vacancy": 2,
+    "Demand": 26
+  },
+  {
+    "index": 1102,
+    "Module\rCode": "CS5239",
+    "Vacancy": 2,
+    "Demand": 7
+  },
+  {
+    "index": 1103,
+    "Module\rCode": "CS5322",
+    "Vacancy": 3,
+    "Demand": 3
+  },
+  {
+    "index": 1104,
+    "Module\rCode": "CS5340",
+    "Vacancy": 2,
+    "Demand": 3
+  },
+  {
+    "index": 1105,
+    "Module\rCode": "GEI1000",
+    "Vacancy": 100,
+    "Demand": 237
+  },
+  {
+    "index": 1106,
+    "Module\rCode": "GET1031",
+    "Vacancy": 100,
+    "Demand": 89
+  },
+  {
+    "index": 1107,
+    "Module\rCode": "IFS4205",
+    "Vacancy": 48,
+    "Demand": 13
+  },
+  {
+    "index": 1108,
+    "Module\rCode": "IT1244",
+    "Vacancy": 450,
+    "Demand": 58
+  },
+  {
+    "index": 1109,
+    "Module\rCode": "BT1101",
+    "Vacancy": 25,
+    "Demand": 8
+  },
+  {
+    "index": 1110,
+    "Module\rCode": "BT2101",
+    "Vacancy": 230,
+    "Demand": 244
+  },
+  {
+    "index": 1111,
+    "Module\rCode": "BT2102",
+    "Vacancy": 230,
+    "Demand": 106
+  },
+  {
+    "index": 1112,
+    "Module\rCode": "BT2103",
+    "Vacancy": 230,
+    "Demand": 184
+  },
+  {
+    "index": 1113,
+    "Module\rCode": "BT2201",
+    "Vacancy": 80,
+    "Demand": 71
+  },
+  {
+    "index": 1114,
+    "Module\rCode": "BT3102",
+    "Vacancy": 170,
+    "Demand": 40
+  },
+  {
+    "index": 1115,
+    "Module\rCode": "BT3103",
+    "Vacancy": 80,
+    "Demand": 48
+  },
+  {
+    "index": 1116,
+    "Module\rCode": "BT4012",
+    "Vacancy": 130,
+    "Demand": 139
+  },
+  {
+    "index": 1117,
+    "Module\rCode": "BT4013",
+    "Vacancy": 70,
+    "Demand": 113
+  },
+  {
+    "index": 1118,
+    "Module\rCode": "BT4015",
+    "Vacancy": 50,
+    "Demand": 17
+  },
+  {
+    "index": 1119,
+    "Module\rCode": "BT4103",
+    "Vacancy": 130,
+    "Demand": 120
+  },
+  {
+    "index": 1120,
+    "Module\rCode": "BT4212",
+    "Vacancy": 118,
+    "Demand": 129
+  },
+  {
+    "index": 1121,
+    "Module\rCode": "BT4222",
+    "Vacancy": 135,
+    "Demand": 144
+  },
+  {
+    "index": 1122,
+    "Module\rCode": "BT4240",
+    "Vacancy": 45,
+    "Demand": 34
+  },
+  {
+    "index": 1123,
+    "Module\rCode": "BT4301",
+    "Vacancy": 80,
+    "Demand": 17
+  },
+  {
+    "index": 1124,
+    "Module\rCode": "IS1108",
+    "Vacancy": 80,
+    "Demand": 3
+  },
+  {
+    "index": 1125,
+    "Module\rCode": "IS1108",
+    "Vacancy": 80,
+    "Demand": 1
+  },
+  {
+    "index": 1126,
+    "Module\rCode": "IS1108",
+    "Vacancy": 80,
+    "Demand": 1
+  },
+  {
+    "index": 1127,
+    "Module\rCode": "IS2102",
+    "Vacancy": 60,
+    "Demand": 82
+  },
+  {
+    "index": 1128,
+    "Module\rCode": "IS2103",
+    "Vacancy": 80,
+    "Demand": 80
+  },
+  {
+    "index": 1129,
+    "Module\rCode": "IS3103",
+    "Vacancy": 220,
+    "Demand": 124
+  },
+  {
+    "index": 1130,
+    "Module\rCode": "IS3106",
+    "Vacancy": 80,
+    "Demand": 13
+  },
+  {
+    "index": 1131,
+    "Module\rCode": "IS3107",
+    "Vacancy": 170,
+    "Demand": 58
+  },
+  {
+    "index": 1132,
+    "Module\rCode": "IS3150",
+    "Vacancy": 65,
+    "Demand": 52
+  },
+  {
+    "index": 1133,
+    "Module\rCode": "IS3221",
+    "Vacancy": 60,
+    "Demand": 40
+  },
+  {
+    "index": 1134,
+    "Module\rCode": "IS3251",
+    "Vacancy": 35,
+    "Demand": 25
+  },
+  {
+    "index": 1135,
+    "Module\rCode": "IS4100",
+    "Vacancy": 55,
+    "Demand": 20
+  },
+  {
+    "index": 1136,
+    "Module\rCode": "IS4103",
+    "Vacancy": 80,
+    "Demand": 39
+  },
+  {
+    "index": 1137,
+    "Module\rCode": "IS4204",
+    "Vacancy": 70,
+    "Demand": 15
+  },
+  {
+    "index": 1138,
+    "Module\rCode": "IS4226",
+    "Vacancy": 65,
+    "Demand": 105
+  },
+  {
+    "index": 1139,
+    "Module\rCode": "IS4228",
+    "Vacancy": 170,
+    "Demand": 99
+  },
+  {
+    "index": 1140,
+    "Module\rCode": "IS4233",
+    "Vacancy": 75,
+    "Demand": 36
+  },
+  {
+    "index": 1141,
+    "Module\rCode": "IS4234",
+    "Vacancy": 65,
+    "Demand": 57
+  },
+  {
+    "index": 1142,
+    "Module\rCode": "IS4261",
+    "Vacancy": 65,
+    "Demand": 32
+  },
+  {
+    "index": 1143,
+    "Module\rCode": "IS4301",
+    "Vacancy": 80,
+    "Demand": 94
+  },
+  {
+    "index": 1144,
+    "Module\rCode": "IT3010",
+    "Vacancy": 130,
+    "Demand": 71
+  },
+  {
+    "index": 1145,
+    "Module\rCode": "CP3201",
+    "Vacancy": 130,
+    "Demand": 27
+  },
+  {
+    "index": 1146,
+    "Module\rCode": "MUA1223",
+    "Vacancy": 5,
+    "Demand": 3
+  },
+  {
+    "index": 1147,
+    "Module\rCode": "MUA1270",
+    "Vacancy": 8,
+    "Demand": 2
+  },
+  {
+    "index": 1148,
+    "Module\rCode": "MUA2163",
+    "Vacancy": 27,
+    "Demand": 27
+  },
+  {
+    "index": 1149,
+    "Module\rCode": "MUA2163",
+    "Vacancy": 26,
+    "Demand": 26
+  },
+  {
+    "index": 1150,
+    "Module\rCode": "MUA2205",
+    "Vacancy": 6,
+    "Demand": 6
+  },
+  {
+    "index": 1151,
+    "Module\rCode": "MUA2210",
+    "Vacancy": 15,
+    "Demand": 1
+  },
+  {
+    "index": 1152,
+    "Module\rCode": "MUA2251",
+    "Vacancy": 5,
+    "Demand": 1
+  },
+  {
+    "index": 1153,
+    "Module\rCode": "MUA3177",
+    "Vacancy": 10,
+    "Demand": 1
+  },
+  {
+    "index": 1154,
+    "Module\rCode": "MUA3181",
+    "Vacancy": 15,
+    "Demand": 5
+  },
+  {
+    "index": 1155,
+    "Module\rCode": "MUA3181",
+    "Vacancy": 12,
+    "Demand": 2
+  },
+  {
+    "index": 1156,
+    "Module\rCode": "MUA3181",
+    "Vacancy": 15,
+    "Demand": 3
+  },
+  {
+    "index": 1157,
+    "Module\rCode": "MUA3181",
+    "Vacancy": 15,
+    "Demand": 3
+  },
+  {
+    "index": 1158,
+    "Module\rCode": "MUA3181",
+    "Vacancy": 15,
+    "Demand": 1
+  },
+  {
+    "index": 1159,
+    "Module\rCode": "MUA3204",
+    "Vacancy": 10,
+    "Demand": 4
+  },
+  {
+    "index": 1160,
+    "Module\rCode": "MUA3205",
+    "Vacancy": 15,
+    "Demand": 8
+  },
+  {
+    "index": 1161,
+    "Module\rCode": "MUA3206",
+    "Vacancy": 15,
+    "Demand": 2
+  },
+  {
+    "index": 1162,
+    "Module\rCode": "MUA3208",
+    "Vacancy": 10,
+    "Demand": 5
+  },
+  {
+    "index": 1163,
+    "Module\rCode": "MUA3213",
+    "Vacancy": 15,
+    "Demand": 6
+  },
+  {
+    "index": 1164,
+    "Module\rCode": "MUA3228",
+    "Vacancy": 8,
+    "Demand": 2
+  },
+  {
+    "index": 1165,
+    "Module\rCode": "MUA3230",
+    "Vacancy": 20,
+    "Demand": 7
+  },
+  {
+    "index": 1166,
+    "Module\rCode": "MUA4181",
+    "Vacancy": 15,
+    "Demand": 1
+  },
+  {
+    "index": 1167,
+    "Module\rCode": "MUA4181",
+    "Vacancy": 15,
+    "Demand": 2
+  },
+  {
+    "index": 1168,
+    "Module\rCode": "MUA4181",
+    "Vacancy": 15,
+    "Demand": 1
+  },
+  {
+    "index": 1169,
+    "Module\rCode": "MUA4181",
+    "Vacancy": 15,
+    "Demand": 2
+  },
+  {
+    "index": 1170,
+    "Module\rCode": "MUH2201",
+    "Vacancy": 18,
+    "Demand": 5
+  },
+  {
+    "index": 1171,
+    "Module\rCode": "MUH2201",
+    "Vacancy": 18,
+    "Demand": 2
+  },
+  {
+    "index": 1172,
+    "Module\rCode": "MUH4204",
+    "Vacancy": 15,
+    "Demand": 3
+  },
+  {
+    "index": 1173,
+    "Module\rCode": "MUL1105",
+    "Vacancy": 9,
+    "Demand": 1
+  },
+  {
+    "index": 1174,
+    "Module\rCode": "MUL2107",
+    "Vacancy": 7,
+    "Demand": 1
+  },
+  {
+    "index": 1175,
+    "Module\rCode": "MUL2109",
+    "Vacancy": 8,
+    "Demand": 6
+  },
+  {
+    "index": 1176,
+    "Module\rCode": "MUT1201",
+    "Vacancy": 15,
+    "Demand": 6
+  },
+  {
+    "index": 1177,
+    "Module\rCode": "MUT2204",
+    "Vacancy": 29,
+    "Demand": 32
+  },
+  {
+    "index": 1178,
+    "Module\rCode": "MUT2205",
+    "Vacancy": 32,
+    "Demand": 25
+  },
+  {
+    "index": 1179,
+    "Module\rCode": "MUT3113",
+    "Vacancy": 13,
+    "Demand": 4
+  },
+  {
+    "index": 1180,
+    "Module\rCode": "MUT3224",
+    "Vacancy": 15,
+    "Demand": 3
+  },
+  {
+    "index": 1181,
+    "Module\rCode": "MUT4201",
+    "Vacancy": 15,
+    "Demand": 4
+  },
+  {
+    "index": 1182,
+    "Module\rCode": "YCC2121",
+    "Vacancy": 126,
+    "Demand": 128
+  },
+  {
+    "index": 1183,
+    "Module\rCode": "YCC2121",
+    "Vacancy": 144,
+    "Demand": 105
+  },
+  {
+    "index": 1184,
+    "Module\rCode": "YHU2202",
+    "Vacancy": 16,
+    "Demand": 41
+  },
+  {
+    "index": 1185,
+    "Module\rCode": "YHU2218",
+    "Vacancy": 16,
+    "Demand": 15
+  },
+  {
+    "index": 1186,
+    "Module\rCode": "YHU2232",
+    "Vacancy": 16,
+    "Demand": 16
+  },
+  {
+    "index": 1187,
+    "Module\rCode": "YHU2241",
+    "Vacancy": 15,
+    "Demand": 54
+  },
+  {
+    "index": 1188,
+    "Module\rCode": "YHU2292",
+    "Vacancy": 16,
+    "Demand": 12
+  },
+  {
+    "index": 1189,
+    "Module\rCode": "YHU2293",
+    "Vacancy": 16,
+    "Demand": 13
+  },
+  {
+    "index": 1190,
+    "Module\rCode": "YHU2302",
+    "Vacancy": 16,
+    "Demand": 7
+  },
+  {
+    "index": 1191,
+    "Module\rCode": "YHU2311",
+    "Vacancy": 15,
+    "Demand": 40
+  },
+  {
+    "index": 1192,
+    "Module\rCode": "YHU2315",
+    "Vacancy": 16,
+    "Demand": 14
+  },
+  {
+    "index": 1193,
+    "Module\rCode": "YHU2319",
+    "Vacancy": 16,
+    "Demand": 18
+  },
+  {
+    "index": 1194,
+    "Module\rCode": "YHU2320",
+    "Vacancy": 16,
+    "Demand": 15
+  },
+  {
+    "index": 1195,
+    "Module\rCode": "YHU2322",
+    "Vacancy": 16,
+    "Demand": 18
+  },
+  {
+    "index": 1196,
+    "Module\rCode": "YHU2335",
+    "Vacancy": 18,
+    "Demand": 3
+  },
+  {
+    "index": 1197,
+    "Module\rCode": "YHU3221",
+    "Vacancy": 18,
+    "Demand": 24
+  },
+  {
+    "index": 1198,
+    "Module\rCode": "YHU3252",
+    "Vacancy": 18,
+    "Demand": 23
+  },
+  {
+    "index": 1199,
+    "Module\rCode": "YHU3271",
+    "Vacancy": 16,
+    "Demand": 5
+  },
+  {
+    "index": 1200,
+    "Module\rCode": "YHU3290",
+    "Vacancy": 18,
+    "Demand": 14
+  },
+  {
+    "index": 1201,
+    "Module\rCode": "YHU3317",
+    "Vacancy": 18,
+    "Demand": 16
+  },
+  {
+    "index": 1202,
+    "Module\rCode": "YHU3336",
+    "Vacancy": 18,
+    "Demand": 28
+  },
+  {
+    "index": 1203,
+    "Module\rCode": "YHU3355",
+    "Vacancy": 18,
+    "Demand": 6
+  },
+  {
+    "index": 1204,
+    "Module\rCode": "YHU3362",
+    "Vacancy": 18,
+    "Demand": 2
+  },
+  {
+    "index": 1205,
+    "Module\rCode": "YHU3363",
+    "Vacancy": 16,
+    "Demand": 8
+  },
+  {
+    "index": 1206,
+    "Module\rCode": "YHU3366",
+    "Vacancy": 16,
+    "Demand": 16
+  },
+  {
+    "index": 1207,
+    "Module\rCode": "YHU3368",
+    "Vacancy": 16,
+    "Demand": 3
+  },
+  {
+    "index": 1208,
+    "Module\rCode": "YHU3370",
+    "Vacancy": 18,
+    "Demand": 29
+  },
+  {
+    "index": 1209,
+    "Module\rCode": "YHU3371",
+    "Vacancy": 16,
+    "Demand": 3
+  },
+  {
+    "index": 1210,
+    "Module\rCode": "YHU3374",
+    "Vacancy": 16,
+    "Demand": 6
+  },
+  {
+    "index": 1211,
+    "Module\rCode": "YHU4206",
+    "Vacancy": 16,
+    "Demand": 16
+  },
+  {
+    "index": 1212,
+    "Module\rCode": "YHU4214",
+    "Vacancy": 10,
+    "Demand": 4
+  },
+  {
+    "index": 1213,
+    "Module\rCode": "YHU4238",
+    "Vacancy": 16,
+    "Demand": 22
+  },
+  {
+    "index": 1214,
+    "Module\rCode": "YHU4244",
+    "Vacancy": 16,
+    "Demand": 8
+  },
+  {
+    "index": 1215,
+    "Module\rCode": "YHU4245",
+    "Vacancy": 15,
+    "Demand": 8
+  },
+  {
+    "index": 1216,
+    "Module\rCode": "YHU4255",
+    "Vacancy": 16,
+    "Demand": 8
+  },
+  {
+    "index": 1217,
+    "Module\rCode": "YHU4259",
+    "Vacancy": 16,
+    "Demand": 6
+  },
+  {
+    "index": 1218,
+    "Module\rCode": "YHU4260",
+    "Vacancy": 16,
+    "Demand": 8
+  },
+  {
+    "index": 1219,
+    "Module\rCode": "YID1201",
+    "Vacancy": 24,
+    "Demand": 5
+  },
+  {
+    "index": 1220,
+    "Module\rCode": "YID1201",
+    "Vacancy": 18,
+    "Demand": 35
+  },
+  {
+    "index": 1221,
+    "Module\rCode": "YID2214",
+    "Vacancy": 18,
+    "Demand": 24
+  },
+  {
+    "index": 1222,
+    "Module\rCode": "YID2216",
+    "Vacancy": 16,
+    "Demand": 14
+  },
+  {
+    "index": 1223,
+    "Module\rCode": "YID3202H",
+    "Vacancy": 16,
+    "Demand": 43
+  },
+  {
+    "index": 1224,
+    "Module\rCode": "YID3211",
+    "Vacancy": 16,
+    "Demand": 23
+  },
+  {
+    "index": 1225,
+    "Module\rCode": "YID3222",
+    "Vacancy": 16,
+    "Demand": 5
+  },
+  {
+    "index": 1226,
+    "Module\rCode": "YID3223",
+    "Vacancy": 16,
+    "Demand": 8
+  },
+  {
+    "index": 1227,
+    "Module\rCode": "YID4202",
+    "Vacancy": 12,
+    "Demand": 3
+  },
+  {
+    "index": 1228,
+    "Module\rCode": "YIR3301",
+    "Vacancy": 18,
+    "Demand": 1
+  },
+  {
+    "index": 1229,
+    "Module\rCode": "YIR3402",
+    "Vacancy": 18,
+    "Demand": 1
+  },
+  {
+    "index": 1230,
+    "Module\rCode": "YLC1202",
+    "Vacancy": 16,
+    "Demand": 5
+  },
+  {
+    "index": 1231,
+    "Module\rCode": "YLC2202",
+    "Vacancy": 16,
+    "Demand": 2
+  },
+  {
+    "index": 1232,
+    "Module\rCode": "YLC3204",
+    "Vacancy": 16,
+    "Demand": 4
+  },
+  {
+    "index": 1233,
+    "Module\rCode": "YLL2201",
+    "Vacancy": 16,
+    "Demand": 5
+  },
+  {
+    "index": 1234,
+    "Module\rCode": "YLN2201",
+    "Vacancy": 15,
+    "Demand": 1
+  },
+  {
+    "index": 1235,
+    "Module\rCode": "YLS1202",
+    "Vacancy": 16,
+    "Demand": 6
+  },
+  {
+    "index": 1236,
+    "Module\rCode": "YSC1208",
+    "Vacancy": 18,
+    "Demand": 2
+  },
+  {
+    "index": 1237,
+    "Module\rCode": "YSC1212",
+    "Vacancy": 29,
+    "Demand": 30
+  },
+  {
+    "index": 1238,
+    "Module\rCode": "YSC1213",
+    "Vacancy": 24,
+    "Demand": 5
+  },
+  {
+    "index": 1239,
+    "Module\rCode": "YSC1216",
+    "Vacancy": 30,
+    "Demand": 37
+  },
+  {
+    "index": 1240,
+    "Module\rCode": "YSC1219",
+    "Vacancy": 36,
+    "Demand": 12
+  },
+  {
+    "index": 1241,
+    "Module\rCode": "YSC1223",
+    "Vacancy": 16,
+    "Demand": 40
+  },
+  {
+    "index": 1242,
+    "Module\rCode": "YSC1223",
+    "Vacancy": 16,
+    "Demand": 38
+  },
+  {
+    "index": 1243,
+    "Module\rCode": "YSC2209",
+    "Vacancy": 20,
+    "Demand": 6
+  },
+  {
+    "index": 1244,
+    "Module\rCode": "YSC2209",
+    "Vacancy": 20,
+    "Demand": 18
+  },
+  {
+    "index": 1245,
+    "Module\rCode": "YSC2216",
+    "Vacancy": 16,
+    "Demand": 5
+  },
+  {
+    "index": 1246,
+    "Module\rCode": "YSC2221",
+    "Vacancy": 30,
+    "Demand": 25
+  },
+  {
+    "index": 1247,
+    "Module\rCode": "YSC2221",
+    "Vacancy": 30,
+    "Demand": 11
+  },
+  {
+    "index": 1248,
+    "Module\rCode": "YSC2227",
+    "Vacancy": 30,
+    "Demand": 7
+  },
+  {
+    "index": 1249,
+    "Module\rCode": "YSC2229",
+    "Vacancy": 28,
+    "Demand": 23
+  },
+  {
+    "index": 1250,
+    "Module\rCode": "YSC2231",
+    "Vacancy": 16,
+    "Demand": 25
+  },
+  {
+    "index": 1251,
+    "Module\rCode": "YSC2232",
+    "Vacancy": 30,
+    "Demand": 7
+  },
+  {
+    "index": 1252,
+    "Module\rCode": "YSC2233",
+    "Vacancy": 16,
+    "Demand": 17
+  },
+  {
+    "index": 1253,
+    "Module\rCode": "YSC2236",
+    "Vacancy": 16,
+    "Demand": 24
+  },
+  {
+    "index": 1254,
+    "Module\rCode": "YSC2239",
+    "Vacancy": 30,
+    "Demand": 41
+  },
+  {
+    "index": 1255,
+    "Module\rCode": "YSC2243",
+    "Vacancy": 28,
+    "Demand": 24
+  },
+  {
+    "index": 1256,
+    "Module\rCode": "YSC2244",
+    "Vacancy": 28,
+    "Demand": 25
+  },
+  {
+    "index": 1257,
+    "Module\rCode": "YSC2248",
+    "Vacancy": 10,
+    "Demand": 3
+  },
+  {
+    "index": 1258,
+    "Module\rCode": "YSC2252",
+    "Vacancy": 28,
+    "Demand": 7
+  },
+  {
+    "index": 1259,
+    "Module\rCode": "YSC2258",
+    "Vacancy": 18,
+    "Demand": 17
+  },
+  {
+    "index": 1260,
+    "Module\rCode": "YSC2259",
+    "Vacancy": 18,
+    "Demand": 19
+  },
+  {
+    "index": 1261,
+    "Module\rCode": "YSC2260",
+    "Vacancy": 18,
+    "Demand": 47
+  },
+  {
+    "index": 1262,
+    "Module\rCode": "YSC3206",
+    "Vacancy": 28,
+    "Demand": 12
+  },
+  {
+    "index": 1263,
+    "Module\rCode": "YSC3210",
+    "Vacancy": 10,
+    "Demand": 7
+  },
+  {
+    "index": 1264,
+    "Module\rCode": "YSC3211",
+    "Vacancy": 10,
+    "Demand": 4
+  },
+  {
+    "index": 1265,
+    "Module\rCode": "YSC3215",
+    "Vacancy": 16,
+    "Demand": 9
+  },
+  {
+    "index": 1266,
+    "Module\rCode": "YSC3235",
+    "Vacancy": 16,
+    "Demand": 4
+  },
+  {
+    "index": 1267,
+    "Module\rCode": "YSC3236",
+    "Vacancy": 28,
+    "Demand": 8
+  },
+  {
+    "index": 1268,
+    "Module\rCode": "YSC3237",
+    "Vacancy": 28,
+    "Demand": 5
+  },
+  {
+    "index": 1269,
+    "Module\rCode": "YSC3239",
+    "Vacancy": 30,
+    "Demand": 8
+  },
+  {
+    "index": 1270,
+    "Module\rCode": "YSC3251",
+    "Vacancy": 16,
+    "Demand": 13
+  },
+  {
+    "index": 1271,
+    "Module\rCode": "YSC3252",
+    "Vacancy": 28,
+    "Demand": 4
+  },
+  {
+    "index": 1272,
+    "Module\rCode": "YSC3257",
+    "Vacancy": 10,
+    "Demand": 8
+  },
+  {
+    "index": 1273,
+    "Module\rCode": "YSC4209",
+    "Vacancy": 16,
+    "Demand": 4
+  },
+  {
+    "index": 1274,
+    "Module\rCode": "YSC4210",
+    "Vacancy": 16,
+    "Demand": 4
+  },
+  {
+    "index": 1275,
+    "Module\rCode": "YSC4220",
+    "Vacancy": 16,
+    "Demand": 8
+  },
+  {
+    "index": 1276,
+    "Module\rCode": "YSC4223",
+    "Vacancy": 10,
+    "Demand": 5
+  },
+  {
+    "index": 1277,
+    "Module\rCode": "YSC4225",
+    "Vacancy": 24,
+    "Demand": 7
+  },
+  {
+    "index": 1278,
+    "Module\rCode": "YSC4231",
+    "Vacancy": 28,
+    "Demand": 11
+  },
+  {
+    "index": 1279,
+    "Module\rCode": "YSC4232",
+    "Vacancy": 28,
+    "Demand": 3
+  },
+  {
+    "index": 1280,
+    "Module\rCode": "YSC4233",
+    "Vacancy": 28,
+    "Demand": 17
+  },
+  {
+    "index": 1281,
+    "Module\rCode": "YSS1203",
+    "Vacancy": 15,
+    "Demand": 11
+  },
+  {
+    "index": 1282,
+    "Module\rCode": "YSS1206",
+    "Vacancy": 16,
+    "Demand": 12
+  },
+  {
+    "index": 1283,
+    "Module\rCode": "YSS2201",
+    "Vacancy": 16,
+    "Demand": 21
+  },
+  {
+    "index": 1284,
+    "Module\rCode": "YSS2203",
+    "Vacancy": 22,
+    "Demand": 39
+  },
+  {
+    "index": 1285,
+    "Module\rCode": "YSS2211",
+    "Vacancy": 16,
+    "Demand": 26
+  },
+  {
+    "index": 1286,
+    "Module\rCode": "YSS2212",
+    "Vacancy": 16,
+    "Demand": 11
+  },
+  {
+    "index": 1287,
+    "Module\rCode": "YSS2214",
+    "Vacancy": 22,
+    "Demand": 20
+  },
+  {
+    "index": 1288,
+    "Module\rCode": "YSS2214",
+    "Vacancy": 22,
+    "Demand": 15
+  },
+  {
+    "index": 1289,
+    "Module\rCode": "YSS2216",
+    "Vacancy": 16,
+    "Demand": 12
+  },
+  {
+    "index": 1290,
+    "Module\rCode": "YSS2218",
+    "Vacancy": 16,
+    "Demand": 29
+  },
+  {
+    "index": 1291,
+    "Module\rCode": "YSS2220",
+    "Vacancy": 16,
+    "Demand": 27
+  },
+  {
+    "index": 1292,
+    "Module\rCode": "YSS2227",
+    "Vacancy": 16,
+    "Demand": 14
+  },
+  {
+    "index": 1293,
+    "Module\rCode": "YSS2228",
+    "Vacancy": 16,
+    "Demand": 27
+  },
+  {
+    "index": 1294,
+    "Module\rCode": "YSS2233",
+    "Vacancy": 16,
+    "Demand": 33
+  },
+  {
+    "index": 1295,
+    "Module\rCode": "YSS2234",
+    "Vacancy": 16,
+    "Demand": 29
+  },
+  {
+    "index": 1296,
+    "Module\rCode": "YSS2250",
+    "Vacancy": 16,
+    "Demand": 16
+  },
+  {
+    "index": 1297,
+    "Module\rCode": "YSS3202",
+    "Vacancy": 16,
+    "Demand": 28
+  },
+  {
+    "index": 1298,
+    "Module\rCode": "YSS3214",
+    "Vacancy": 16,
+    "Demand": 21
+  },
+  {
+    "index": 1299,
+    "Module\rCode": "YSS3217",
+    "Vacancy": 16,
+    "Demand": 10
+  },
+  {
+    "index": 1300,
+    "Module\rCode": "YSS3222",
+    "Vacancy": 16,
+    "Demand": 14
+  },
+  {
+    "index": 1301,
+    "Module\rCode": "YSS3228",
+    "Vacancy": 16,
+    "Demand": 19
+  },
+  {
+    "index": 1302,
+    "Module\rCode": "YSS3231",
+    "Vacancy": 16,
+    "Demand": 32
+  },
+  {
+    "index": 1303,
+    "Module\rCode": "YSS3245",
+    "Vacancy": 16,
+    "Demand": 10
+  },
+  {
+    "index": 1304,
+    "Module\rCode": "YSS3246",
+    "Vacancy": 16,
+    "Demand": 18
+  },
+  {
+    "index": 1305,
+    "Module\rCode": "YSS3248",
+    "Vacancy": 12,
+    "Demand": 2
+  },
+  {
+    "index": 1306,
+    "Module\rCode": "YSS3255",
+    "Vacancy": 16,
+    "Demand": 24
+  },
+  {
+    "index": 1307,
+    "Module\rCode": "YSS3257",
+    "Vacancy": 16,
+    "Demand": 21
+  },
+  {
+    "index": 1308,
+    "Module\rCode": "YSS3262",
+    "Vacancy": 16,
+    "Demand": 9
+  },
+  {
+    "index": 1309,
+    "Module\rCode": "YSS3273",
+    "Vacancy": 16,
+    "Demand": 23
+  },
+  {
+    "index": 1310,
+    "Module\rCode": "YSS3275",
+    "Vacancy": 16,
+    "Demand": 14
+  },
+  {
+    "index": 1311,
+    "Module\rCode": "YSS3277",
+    "Vacancy": 16,
+    "Demand": 16
+  },
+  {
+    "index": 1312,
+    "Module\rCode": "YSS3278",
+    "Vacancy": 16,
+    "Demand": 30
+  },
+  {
+    "index": 1313,
+    "Module\rCode": "YSS3286",
+    "Vacancy": 16,
+    "Demand": 3
+  },
+  {
+    "index": 1314,
+    "Module\rCode": "YSS3300",
+    "Vacancy": 15,
+    "Demand": 18
+  },
+  {
+    "index": 1315,
+    "Module\rCode": "YSS3303",
+    "Vacancy": 16,
+    "Demand": 7
+  },
+  {
+    "index": 1316,
+    "Module\rCode": "YSS3317",
+    "Vacancy": 16,
+    "Demand": 16
+  },
+  {
+    "index": 1317,
+    "Module\rCode": "YSS3329",
+    "Vacancy": 16,
+    "Demand": 2
+  },
+  {
+    "index": 1318,
+    "Module\rCode": "YSS3331",
+    "Vacancy": 16,
+    "Demand": 5
+  },
+  {
+    "index": 1319,
+    "Module\rCode": "YSS3341",
+    "Vacancy": 16,
+    "Demand": 20
+  },
+  {
+    "index": 1320,
+    "Module\rCode": "YSS3342",
+    "Vacancy": 16,
+    "Demand": 22
+  },
+  {
+    "index": 1321,
+    "Module\rCode": "YSS3343",
+    "Vacancy": 16,
+    "Demand": 3
+  },
+  {
+    "index": 1322,
+    "Module\rCode": "YSS4206C",
+    "Vacancy": 15,
+    "Demand": 9
+  },
+  {
+    "index": 1323,
+    "Module\rCode": "YSS4211",
+    "Vacancy": 16,
+    "Demand": 4
+  },
+  {
+    "index": 1324,
+    "Module\rCode": "YSS4226",
+    "Vacancy": 13,
+    "Demand": 4
+  },
+  {
+    "index": 1325,
+    "Module\rCode": "YSS4227",
+    "Vacancy": 15,
+    "Demand": 1
+  },
+  {
+    "index": 1326,
+    "Module\rCode": "YSS4234",
+    "Vacancy": 13,
+    "Demand": 15
+  },
+  {
+    "index": 1327,
+    "Module\rCode": "YSS4235",
+    "Vacancy": 16,
+    "Demand": 9
+  },
+  {
+    "index": 1328,
+    "Module\rCode": "YSS4258",
+    "Vacancy": 16,
+    "Demand": 8
+  },
+  {
+    "index": 1329,
+    "Module\rCode": "YSS4268",
+    "Vacancy": 16,
+    "Demand": 13
+  },
+  {
+    "index": 1330,
+    "Module\rCode": "YSS4271",
+    "Vacancy": 16,
+    "Demand": 7
+  },
+  {
+    "index": 1331,
+    "Module\rCode": "YSS4275",
+    "Vacancy": 16,
+    "Demand": 10
+  },
+  {
+    "index": 1332,
+    "Module\rCode": "YSS4276",
+    "Vacancy": 14,
+    "Demand": 5
+  },
+  {
+    "index": 1333,
+    "Module\rCode": "YSS4278",
+    "Vacancy": 15,
+    "Demand": 4
+  },
+  {
+    "index": 1334,
+    "Module\rCode": "YSS4279",
+    "Vacancy": 16,
+    "Demand": 28
+  },
+  {
+    "index": 1335,
+    "Module\rCode": "YSS4280",
+    "Vacancy": 13,
+    "Demand": 2
+  },
+  {
+    "index": 1336,
+    "Module\rCode": "NUR1113A",
+    "Vacancy": 130,
+    "Demand": 4
+  }
+]
